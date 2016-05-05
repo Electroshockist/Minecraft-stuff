@@ -1,0 +1,41 @@
+//Block Declaration Class (for Generic Ore block)
+
+package tutorial.basic;
+
+import java.util.Random;
+
+import net.minecraft.block.Block;
+import net.minecraft.block.material.Material;
+import net.minecraft.creativetab.CreativeTabs;
+import net.minecraft.world.World;
+
+
+//states that this class(the GenericOre class) is an extension of the  class 
+public class GenericOre extends Block {
+
+	public GenericOre(int id, Material material) {
+		super(id, material);
+		
+		//Generic Ore properties declaration
+		setHardness(4.0f);
+		setStepSound(Block.soundStoneFootstep);
+		setUnlocalizedName("genericOre");
+		setCreativeTab(CreativeTabs.tabBlock);
+		setTextureName(BasicInfo.NAME.toLowerCase() + ":gravgun_ore");
+		
+	}
+	
+	public void dropBlockAsItemWithChance(World world, int par2,int par3,int par4,int par5,int par6, int par7){
+		super.dropBlockAsItemWithChance(world, par2, par3, par4, par5, par6, par7);
+		if(this.idDropped(par5, world.rand, par7)) != this.blockID{
+			int xp = 0;
+		}
+	}
+	
+	/*says what is dropped by the block "Generic Ore"
+	(in this case: a kill cannon)*/
+	/*public int idDropped(int metadata, Random random, int fortune){
+		return Basic.GenericItemID + 256;
+
+  }*/
+}

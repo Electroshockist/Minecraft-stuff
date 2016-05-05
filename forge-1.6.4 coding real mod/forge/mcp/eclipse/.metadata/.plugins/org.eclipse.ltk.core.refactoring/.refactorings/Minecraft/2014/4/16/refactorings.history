@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;electroshockist.DefaultOverhaul.reproduction&apos; to &apos;electroshockist.DefaultOverhaul.Reproduction&apos;&#x0D;&#x0A;- Original project: &apos;Minecraft&apos;&#x0D;&#x0A;- Original element: &apos;Minecraft/src/electroshockist.DefaultOverhaul.reproduction&apos;&#x0D;&#x0A;- Renamed element: &apos;Minecraft/src/electroshockist.DefaultOverhaul.Reproduction&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;electroshockist.DefaultOverhaul.reproduction&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;electroshockist.DefaultOverhaul.reproduction" name="electroshockist.DefaultOverhaul.Reproduction" qualified="false" references="true" stamp="1397591515675" textual="false" version="1.0"/>
+</session>
