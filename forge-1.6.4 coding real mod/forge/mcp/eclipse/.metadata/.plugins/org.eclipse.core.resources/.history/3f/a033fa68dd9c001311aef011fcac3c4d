@@ -1,0 +1,21 @@
+package tutorial.basic;
+
+import net.minecraft.block.Block;
+import net.minecraft.block.material.Material;
+import net.minecraft.creativetab.CreativeTabs;
+
+public class GenericLeaf extends Block {
+
+	public GenericLeaf(int id, Material material) {
+		super(id, material);
+		
+		//Generic Ore properties declaration
+		setHardness(4.0f);
+		setStepSound(Block.soundStoneFootstep);
+		setUnlocalizedName("genericOre");
+		setCreativeTab(CreativeTabs.tabBlock);
+		setTextureName(BasicInfo.NAME.toLowerCase() + ":gravgun_ore");
+	
+	}
+
+}

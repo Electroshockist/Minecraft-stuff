@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.jcraft.jorbis.Block"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.common.Mod.Item"/>
+<fullyQualifiedTypeName name="net.minecraft.client.renderer.texture.IconRegister"/>
+<fullyQualifiedTypeName name="javax.tools.Tool"/>
+<fullyQualifiedTypeName name="net.minecraft.item.Item"/>
+<fullyQualifiedTypeName name="tutorial.basic.client.GenericItem"/>
+<fullyQualifiedTypeName name="net.minecraft.entity.EntityLivingBase"/>
+<fullyQualifiedTypeName name="net.minecraft.util.Vec3"/>
+<fullyQualifiedTypeName name="net.minecraft.world.biome.BiomeGenBase"/>
+<fullyQualifiedTypeName name="net.minecraftforge.common.EnumHelper"/>
+<fullyQualifiedTypeName name="net.minecraft.item.EnumToolMaterial"/>
+<fullyQualifiedTypeName name="net.minecraft.item.ItemStack"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.relauncher.Side"/>
+<fullyQualifiedTypeName name="tutorial.basic.GenericLeaves"/>
+<fullyQualifiedTypeName name="tutorial.basic.Basic"/>
+<fullyQualifiedTypeName name="tutorial.basic.CommonProxy"/>
+<fullyQualifiedTypeName name="electroshockist.DefaultOverhaul.blocks.GenericBlock"/>
+<fullyQualifiedTypeName name="net.minecraft.block.BlockStep"/>
+<fullyQualifiedTypeName name="electroshockist.DefaultOverhaul.blocks.NewStepBlocks"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.common.registry.GameRegistry"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.common.registry.LanguageRegistry"/>
+<fullyQualifiedTypeName name="net.minecraftforge.common.MinecraftForge"/>
+<fullyQualifiedTypeName name="net.minecraft.block.Block"/>
+<fullyQualifiedTypeName name="electroshockist.DefaultOverhaul.blocks.StepDirt"/>
+<fullyQualifiedTypeName name="net.minecraft.creativetab.CreativeTabs"/>
+<fullyQualifiedTypeName name="net.minecraft.block.material.Material"/>
+<fullyQualifiedTypeName name="electroshockist.DefaultOverhaul.BasicInfo"/>
+<fullyQualifiedTypeName name="javax.swing.Icon"/>
+<fullyQualifiedTypeName name="net.minecraft.block.BlockHalfSlab"/>
+<fullyQualifiedTypeName name="electroshockist.DefaultOverhaul.Basic"/>
+<fullyQualifiedTypeName name="net.minecraft.entity.item.EntityFallingSand"/>
+</qualifiedTypeNameHistroy>

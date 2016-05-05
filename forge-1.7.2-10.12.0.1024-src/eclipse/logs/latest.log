@@ -1,0 +1,73 @@
+[00:38:48] [main/INFO]: Setting user: Player546
+[00:38:49] [Client thread/INFO]: LWJGL Version: 2.9.0
+[00:38:52] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Example Mod
+[00:38:53] [Sound Library Loader/INFO]: Sound engine started
+[00:38:54] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[00:38:54] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[00:38:55] [MCO Availability Checker #1/ERROR]: Couldn't connect to Realms
+[00:39:09] [Server thread/INFO]: Starting integrated minecraft server version 1.7.2
+[00:39:09] [Server thread/INFO]: Generating keypair
+[00:39:09] [Server thread/INFO]: Converting map!
+[00:39:09] [Server thread/INFO]: Scanning folders...
+[00:39:09] [Server thread/INFO]: Total conversion count is 0
+[00:39:10] [Server thread/INFO]: Preparing start region for level 0
+[00:39:11] [Server thread/INFO]: Preparing spawn area: 6%
+[00:39:12] [Server thread/INFO]: Preparing spawn area: 13%
+[00:39:13] [Server thread/INFO]: Preparing spawn area: 24%
+[00:39:14] [Server thread/INFO]: Preparing spawn area: 38%
+[00:39:15] [Server thread/INFO]: Preparing spawn area: 52%
+[00:39:16] [Server thread/INFO]: Preparing spawn area: 65%
+[00:39:17] [Server thread/INFO]: Preparing spawn area: 78%
+[00:39:18] [Server thread/INFO]: Preparing spawn area: 91%
+[00:39:19] [Server thread/INFO]: Player546[local:E:c2d20c94] logged in with entity id 202 at (-28.5, 68.0, 244.5)
+[00:39:19] [Server thread/INFO]: Player546 joined the game
+[00:39:20] [Server thread/INFO]: Saving and pausing game...
+[00:39:20] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[00:39:24] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[00:39:24] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[00:39:24] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4389ms behind, skipping 87 tick(s)
+[00:39:36] [Client thread/INFO]: Warning: Clientside chunk ticking took 138 ms
+[00:39:36] [Client thread/INFO]: Warning: Clientside chunk ticking took 132 ms
+[00:39:39] [Client thread/INFO]: Warning: Clientside chunk ticking took 225 ms
+[00:39:39] [Client thread/INFO]: Warning: Clientside chunk ticking took 249 ms
+[00:39:39] [Client thread/INFO]: Warning: Clientside chunk ticking took 128 ms
+[00:39:40] [Client thread/INFO]: Warning: Clientside chunk ticking took 127 ms
+[00:39:40] [Client thread/INFO]: Warning: Clientside chunk ticking took 149 ms
+[00:39:41] [Client thread/INFO]: Warning: Clientside chunk ticking took 144 ms
+[00:39:41] [Client thread/INFO]: Warning: Clientside chunk ticking took 139 ms
+[00:39:41] [Client thread/INFO]: Warning: Clientside chunk ticking took 146 ms
+[00:39:41] [Client thread/INFO]: Warning: Clientside chunk ticking took 129 ms
+[00:39:41] [Client thread/INFO]: Warning: Clientside chunk ticking took 138 ms
+[00:39:42] [Client thread/INFO]: Warning: Clientside chunk ticking took 172 ms
+[00:39:42] [Server thread/INFO]: Saving and pausing game...
+[00:39:42] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[00:39:42] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[00:39:43] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[00:39:44] [Server thread/INFO]: Saving and pausing game...
+[00:39:44] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[00:39:44] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[00:39:44] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[00:40:49] [Server thread/INFO]: Saving and pausing game...
+[00:40:49] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[00:40:49] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[00:40:49] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[00:41:16] [Client thread/INFO]: [CHAT] Seed: -7769765318384840482
+[00:41:18] [Client thread/INFO]: [CHAT] Saved screenshot as 2014-03-23_00.41.18.png
+[00:41:43] [Server thread/INFO]: Player546 fell out of the world
+[00:41:43] [Client thread/INFO]: [CHAT] Player546 fell out of the world
+[00:41:43] [Client thread/INFO]: [CHAT] Ouch! That looked like it hurt
+[00:41:54] [Server thread/INFO]: Saving and pausing game...
+[00:41:54] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[00:41:54] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[00:41:54] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[00:41:57] [Server thread/INFO]: Saving and pausing game...
+[00:41:57] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[00:41:57] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[00:41:57] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[00:41:58] [Server thread/INFO]: Stopping server
+[00:41:58] [Server thread/INFO]: Saving players
+[00:41:58] [Server thread/INFO]: Saving worlds
+[00:41:58] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[00:41:58] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[00:41:58] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[00:42:06] [Client thread/INFO]: Stopping!

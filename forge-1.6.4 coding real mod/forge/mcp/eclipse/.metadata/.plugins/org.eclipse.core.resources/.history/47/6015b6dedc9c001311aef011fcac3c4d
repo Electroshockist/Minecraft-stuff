@@ -1,0 +1,113 @@
+package tutorial.basic;
+ 
+import net.minecraft.block.Block;
+import net.minecraft.block.material.Material;
+import net.minecraft.creativetab.CreativeTabs;
+import net.minecraft.item.Item;
+import net.minecraft.item.ItemStack;
+import net.minecraft.item.crafting.FurnaceRecipes;
+import net.minecraftforge.common.MinecraftForge;
+import cpw.mods.fml.common.Mod;
+import cpw.mods.fml.common.Mod.EventHandler;
+import cpw.mods.fml.common.Mod.Instance;
+import cpw.mods.fml.common.SidedProxy;
+import cpw.mods.fml.common.event.FMLInitializationEvent;
+import cpw.mods.fml.common.event.FMLPostInitializationEvent;
+import cpw.mods.fml.common.event.FMLPreInitializationEvent;
+import cpw.mods.fml.common.network.NetworkMod;
+import cpw.mods.fml.common.registry.GameRegistry;
+import cpw.mods.fml.common.registry.LanguageRegistry;
+ 
+@Mod(modid=BasicInfo.NAME, name=BasicInfo.ID, version=BasicInfo.V)
+@NetworkMod(clientSideRequired=true, serverSideRequired=false)
+public class Basic {
+	
+	static int GenericItemID = 500;
+	
+	//Sets Generic Dirt material, data value and properties declaration (chained)
+	public final static Block genericDirt = new GenericBlock(500, Material.ground).setHardness(2.0f).setStepSound(Block.soundGravelFootstep).setUnlocalizedName("genericDirt").setCreativeTab(CreativeTabs.tabBlock); //Features of Custom Block
+	
+	//Sets Generic Ore material and data value declaration
+	public final static Block genericOre = new GenericOre(501, Material.rock);
+	
+	//Sets Generic Leaf material and data value declaration
+		public final static Block genericLeaf = new GenericLeaf(502, Material.leaves);
+	
+	//Sets Generic Item id(not data value) declaration
+	private final static Item genericItem = new GenericItem(GenericItemID);
+	
+	EventManager oreManager = new EventManager();
+	
+ 
+        // The instance of your mod that Forge uses.
+        @Instance("Basic")
+        public static Basic instance;
+       
+        // Says where the client and server 'proxy' code is loaded.
+        @SidedProxy(clientSide=BasicInfo.CLIENTPROXY + "ClientProxy", serverSide=BasicInfo.COMMONPROXY + "CommonProxy")
+        public static CommonProxy proxy;
+       
+        @EventHandler
+        public void preInit(FMLPreInitializationEvent event) {
+                // Stub Method
+        }
+       
+        @EventHandler
+        public void load(FMLInitializationEvent event) { //Use this one for recipes
+                proxy.registerRenderers();
+                
+                /*Crafting:
+                	
+               	  Examples of constants:
+               	(creates one constant of 10 dirt blocks and one constant of 10 black wool blocks)
+               	ItemStack dirtStack = new ItemStack(3, 10,0);
+               	ItemStack blackWoolStack= new ItemStack(Block.cloth, 10, 15);
+                  
+               	 /* Examples of shapeless crafting:
+               	(1 dirt to 10 black wool, and 1 black wool to 10 dirt)
+               	GameRegistry.addShapelessRecipe(blackWoolStack,dirtStack);
+               	GameRegistry.addShapelessRecipe(dirtStack,blackWoolStack);
+                   
+               	 /* Examples of shaped crafting:
+               	(x = dirt, y = black wool each set of double quotes("") is a row on the crafting table
+                GameRegistry.addShapedRecipe(blackWoolStack, "x y","yxy","y x",
+               			'x', dirtStack,'y', blackWoolStack);
+                	
+               	  /* Examples of smelting recipes:
+               	(creates a recipe making dirt into 10 black wool, and making 1 black wool to 10 dirt)
+                GameRegistry.addSmelting(Block.dirt.blockID, blackWoolStack, 0.3f);
+                FurnaceRecipes.smelting().addSmelting(Block.cloth.blockID,15, dirtStack, 2.3f);*/
+                
+                
+                //Blocks:
+                /*Normal Block:
+                (adds a block called Generic Dirt that can be mined with an iron(2) shovel and drops itself(like dirt))*/
+                GameRegistry.registerBlock(genericDirt,"genericDirt");
+                LanguageRegistry.addName(genericDirt, "Generic Dirt");
+                MinecraftForge.setBlockHarvestLevel(genericDirt, "shovel", 2);
+                
+                /*Ore:
+                 (adds a block called Generic Ore that can be mined with a diamond pickaxe, and drops an iron ingot)*/
+                GameRegistry.registerBlock(genericOre,"genericOre");
+                LanguageRegistry.addName(genericOre, "Generic Ore");
+                MinecraftForge.setBlockHarvestLevel(genericOre, "pickaxe", 3);
+                
+                /*Ore Generation:
+                registers a world generator called oreManager*/
+                GameRegistry.registerWorldGenerator(oreManager);
+                
+                //Items:
+                /*All Items:
+                 States the readable name for GenericItem to Kill Cannon*/
+                LanguageRegistry.addName(genericItem, "Kill Cannon");
+                
+                
+                   
+        }
+       
+        @EventHandler
+        public void postInit(FMLPostInitializationEvent event) {
+                // Stub Method
+        }
+       
+}

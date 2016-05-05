@@ -1,0 +1,1886 @@
+2014-01-29 15:26:29 [CLIENT] [INFO] Setting user: Player343
+2014-01-29 15:26:32 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-01-29 15:26:34 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-01-29 15:26:43 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge
+2014-01-29 15:26:46 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge
+2014-01-29 15:26:52 [CLIENT] [SEVERE] Realms: Server not available!
+2014-01-29 15:28:03 [CLIENT] [INFO] Stopping!
+2014-01-29 16:07:05 [CLIENT] [INFO] Setting user: Player171
+2014-01-29 16:07:07 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-01-29 16:07:08 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-01-29 16:07:15 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-29 16:07:17 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-29 16:07:23 [CLIENT] [SEVERE] Realms: Server not available!
+2014-01-29 16:07:42 [CLIENT] [INFO] Stopping!
+2014-01-29 16:07:55 [CLIENT] [INFO] Setting user: Player937
+2014-01-29 16:07:57 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-01-29 16:07:58 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-01-29 16:08:04 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-29 16:08:07 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-29 16:08:09 [CLIENT] [SEVERE] Realms: Server not available!
+2014-01-29 16:08:27 [CLIENT] [INFO] Stopping!
+2014-01-29 19:13:07 [CLIENT] [INFO] Setting user: Player437
+2014-01-29 19:13:11 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-01-29 19:13:12 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-01-29 19:13:26 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-29 19:13:29 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-29 19:13:34 [CLIENT] [SEVERE] Realms: Server not available!
+2014-01-29 19:14:29 [CLIENT] [WARNING] Memory connection overburdened; after processing 2500 packets, we still have 2682 to go!
+2014-01-29 19:14:29 [CLIENT] [WARNING] Memory connection overburdened; after processing 2500 packets, we still have 3436 to go!
+2014-01-29 19:14:30 [CLIENT] [WARNING] Memory connection overburdened; after processing 2500 packets, we still have 2929 to go!
+2014-01-29 19:14:30 [CLIENT] [WARNING] Memory connection overburdened; after processing 2500 packets, we still have 837 to go!
+2014-01-29 19:16:45 [CLIENT] [INFO] Stopping!
+2014-01-29 19:30:39 [CLIENT] [INFO] Setting user: Player562
+2014-01-29 19:30:41 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-01-29 19:30:42 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-01-29 19:30:49 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-29 19:30:51 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-29 19:30:57 [CLIENT] [SEVERE] Realms: Server not available!
+2014-01-29 19:32:09 [CLIENT] [INFO] Stopping!
+2014-01-29 21:21:04 [CLIENT] [INFO] Setting user: Player265
+2014-01-29 21:21:06 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-01-29 21:21:07 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-01-29 21:21:14 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-29 21:21:16 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-29 21:21:22 [CLIENT] [SEVERE] Realms: Server not available!
+2014-01-29 21:22:20 [CLIENT] [INFO] Stopping!
+2014-01-29 21:24:44 [CLIENT] [INFO] Setting user: Player78
+2014-01-29 21:24:46 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-01-29 21:24:47 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-01-29 21:24:53 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-29 21:24:56 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-29 21:24:59 [CLIENT] [SEVERE] Realms: Server not available!
+2014-01-29 21:25:32 [CLIENT] [INFO] Stopping!
+2014-01-29 21:26:12 [CLIENT] [INFO] Setting user: Player953
+2014-01-29 21:26:14 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-01-29 21:26:14 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-01-29 21:26:21 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-29 21:26:24 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-29 21:26:26 [CLIENT] [SEVERE] Realms: Server not available!
+2014-01-29 21:27:34 [CLIENT] [INFO] Stopping!
+2014-01-29 21:28:15 [CLIENT] [INFO] Setting user: Player703
+2014-01-29 21:28:16 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-01-29 21:28:17 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-01-29 21:28:24 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-29 21:28:27 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-29 21:28:30 [CLIENT] [SEVERE] Realms: Server not available!
+2014-01-29 21:29:50 [CLIENT] [INFO] Stopping!
+2014-01-29 21:31:59 [CLIENT] [INFO] Setting user: Player703
+2014-01-29 21:32:02 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-01-29 21:32:02 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-01-29 21:32:09 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-29 21:32:12 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-29 21:32:14 [CLIENT] [SEVERE] Realms: Server not available!
+2014-01-29 21:32:48 [CLIENT] [INFO] Stopping!
+2014-01-29 21:33:20 [CLIENT] [INFO] Setting user: Player875
+2014-01-29 21:33:22 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-01-29 21:33:23 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-01-29 21:33:29 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-29 21:33:32 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-29 21:33:34 [CLIENT] [SEVERE] Realms: Server not available!
+2014-01-29 21:34:36 [CLIENT] [INFO] Stopping!
+2014-01-29 21:35:29 [CLIENT] [INFO] Setting user: Player390
+2014-01-29 21:35:31 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-01-29 21:35:32 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-01-29 21:35:38 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-29 21:35:41 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-29 21:35:44 [CLIENT] [SEVERE] Realms: Server not available!
+2014-01-29 21:39:09 [CLIENT] [INFO] Stopping!
+2014-01-29 21:40:38 [CLIENT] [INFO] Setting user: Player734
+2014-01-29 21:40:40 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-01-29 21:40:41 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-01-29 21:40:48 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-29 21:40:51 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-29 21:40:53 [CLIENT] [SEVERE] Realms: Server not available!
+2014-01-29 21:48:14 [CLIENT] [INFO] Stopping!
+2014-01-29 21:50:42 [CLIENT] [INFO] Setting user: Player937
+2014-01-29 21:50:44 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-01-29 21:50:45 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-01-29 21:50:51 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-29 21:50:54 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-29 21:50:59 [CLIENT] [SEVERE] Realms: Server not available!
+2014-01-29 21:52:07 [CLIENT] [INFO] Stopping!
+2014-01-29 21:53:22 [CLIENT] [INFO] Setting user: Player265
+2014-01-29 21:53:24 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-01-29 21:53:25 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-01-29 21:53:32 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-29 21:53:34 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-29 21:53:37 [CLIENT] [SEVERE] Realms: Server not available!
+2014-01-29 21:54:26 [CLIENT] [INFO] Stopping!
+2014-01-29 21:57:09 [CLIENT] [INFO] Setting user: Player578
+2014-01-29 21:57:11 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-01-29 21:57:12 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-01-29 21:57:19 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-29 21:57:22 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-29 21:57:24 [CLIENT] [SEVERE] Realms: Server not available!
+2014-01-29 21:57:55 [CLIENT] [INFO] Stopping!
+2014-01-30 14:11:43 [CLIENT] [INFO] Setting user: Player468
+2014-01-30 14:11:47 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-01-30 14:11:49 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-01-30 14:12:15 [CLIENT] [INFO] Setting user: Player562
+2014-01-30 14:12:17 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-01-30 14:12:18 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-01-30 14:12:25 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-30 14:12:28 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-30 14:12:36 [CLIENT] [SEVERE] Realms: Server not available!
+2014-01-30 14:14:33 [CLIENT] [INFO] Stopping!
+2014-01-30 14:16:16 [CLIENT] [INFO] Setting user: Player390
+2014-01-30 14:16:19 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-01-30 14:16:20 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-01-30 14:16:27 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-30 14:16:30 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-30 14:16:32 [CLIENT] [SEVERE] Realms: Server not available!
+2014-01-30 14:17:26 [CLIENT] [INFO] Stopping!
+2014-01-30 14:18:48 [CLIENT] [INFO] Setting user: Player750
+2014-01-30 14:18:50 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-01-30 14:18:50 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-01-30 14:18:58 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-30 14:19:00 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-30 14:19:03 [CLIENT] [SEVERE] Realms: Server not available!
+2014-01-30 14:19:57 [CLIENT] [INFO] Stopping!
+2014-01-30 14:22:08 [CLIENT] [INFO] Setting user: Player296
+2014-01-30 14:22:10 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-01-30 14:22:11 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-01-30 14:22:18 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-30 14:22:21 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-30 14:22:23 [CLIENT] [SEVERE] Realms: Server not available!
+2014-01-30 14:24:05 [CLIENT] [INFO] Stopping!
+2014-01-30 14:25:29 [CLIENT] [INFO] Setting user: Player687
+2014-01-30 14:25:31 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-01-30 14:25:33 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-01-30 14:25:43 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-30 14:25:47 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-30 14:25:50 [CLIENT] [SEVERE] Realms: Server not available!
+2014-01-30 14:27:45 [CLIENT] [INFO] Stopping!
+2014-01-30 14:47:34 [CLIENT] [INFO] Setting user: Player937
+2014-01-30 14:47:37 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-01-30 14:47:39 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-01-30 14:47:52 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-30 14:47:56 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-30 14:48:02 [CLIENT] [SEVERE] Realms: Server not available!
+2014-01-30 14:49:06 [CLIENT] [INFO] [CHAT] /gamemode, /give, /gamerule
+2014-01-30 14:49:08 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2014-01-30 14:49:38 [CLIENT] [INFO] Stopping!
+2014-01-30 14:50:12 [CLIENT] [INFO] Setting user: Player78
+2014-01-30 14:50:15 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-01-30 14:50:15 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-01-30 14:50:23 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-30 14:50:27 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-30 14:50:29 [CLIENT] [SEVERE] Realms: Server not available!
+2014-01-30 14:50:50 [CLIENT] [INFO] [CHAT] /gamemode, /give, /gamerule
+2014-01-30 14:50:52 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2014-01-30 14:51:36 [CLIENT] [INFO] Stopping!
+2014-01-30 14:52:09 [CLIENT] [INFO] Setting user: Player890
+2014-01-30 14:52:11 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-01-30 14:52:12 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-01-30 14:52:19 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-30 14:52:22 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-30 14:52:25 [CLIENT] [SEVERE] Realms: Server not available!
+2014-01-30 14:53:06 [CLIENT] [INFO] Stopping!
+2014-01-30 14:53:33 [CLIENT] [INFO] Setting user: Player390
+2014-01-30 14:53:35 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-01-30 14:53:36 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-01-30 14:53:44 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-30 14:53:46 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-30 14:53:49 [CLIENT] [SEVERE] Realms: Server not available!
+2014-01-30 14:55:46 [CLIENT] [INFO] Stopping!
+2014-01-30 14:57:49 [CLIENT] [INFO] Setting user: Player296
+2014-01-30 14:57:52 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-01-30 14:57:53 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-01-30 14:58:03 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-30 14:58:07 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-30 14:58:13 [CLIENT] [SEVERE] Realms: Server not available!
+2014-01-30 14:59:04 [CLIENT] [INFO] Stopping!
+2014-01-30 15:04:57 [CLIENT] [INFO] Setting user: Player875
+2014-01-30 15:05:00 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-01-30 15:05:01 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-01-30 15:05:11 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-30 15:05:15 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-30 15:05:22 [CLIENT] [SEVERE] Realms: Server not available!
+2014-01-30 15:08:27 [CLIENT] [INFO] Stopping!
+2014-01-30 23:12:48 [CLIENT] [INFO] Setting user: Player718
+2014-01-30 23:12:51 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-01-30 23:12:52 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-01-30 23:13:03 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-30 23:13:05 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-01-30 23:13:07 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-30 23:13:08 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-01-30 23:13:14 [CLIENT] [SEVERE] Realms: Server not available!
+2014-01-30 23:13:26 [CLIENT] [INFO] [CHAT] /gamemode, /give, /gamerule
+2014-01-30 23:13:27 [CLIENT] [INFO] [CHAT] /gamemode, /give, /gamerule
+2014-01-30 23:13:34 [CLIENT] [INFO] [CHAT] There is no such item with ID 500
+2014-01-30 23:14:03 [CLIENT] [INFO] Stopping!
+2014-01-30 23:22:33 [CLIENT] [INFO] Setting user: Player500
+2014-01-30 23:22:35 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-01-30 23:22:36 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-01-30 23:22:43 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-30 23:22:45 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-01-30 23:22:47 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-30 23:22:47 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-01-30 23:22:52 [CLIENT] [SEVERE] Realms: Server not available!
+2014-01-30 23:24:47 [CLIENT] [INFO] Stopping!
+2014-01-30 23:24:56 [CLIENT] [INFO] Setting user: Player203
+2014-01-30 23:24:58 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-01-30 23:24:59 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-01-30 23:25:07 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-30 23:25:08 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-01-30 23:25:09 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-30 23:25:10 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-01-30 23:25:12 [CLIENT] [SEVERE] Realms: Server not available!
+2014-01-30 23:26:11 [CLIENT] [INFO] Stopping!
+2014-01-30 23:38:13 [CLIENT] [INFO] Setting user: Player531
+2014-01-30 23:38:16 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-01-30 23:38:17 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-01-30 23:38:26 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-30 23:38:28 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-01-30 23:38:30 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-30 23:38:31 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-01-30 23:38:36 [CLIENT] [SEVERE] Realms: Server not available!
+2014-01-30 23:39:28 [CLIENT] [INFO] Stopping!
+2014-01-30 23:43:05 [CLIENT] [INFO] Setting user: Player218
+2014-01-30 23:43:08 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-01-30 23:43:09 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-01-30 23:43:18 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-30 23:43:19 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-01-30 23:43:20 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-30 23:43:21 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-01-30 23:43:26 [CLIENT] [SEVERE] Realms: Server not available!
+2014-01-30 23:43:39 [CLIENT] [INFO] [CHAT] /gamemode, /give, /gamerule
+2014-01-30 23:43:44 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2014-01-30 23:43:49 [CLIENT] [INFO] [CHAT] /gamemode, /give, /gamerule
+2014-01-30 23:43:52 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2014-01-30 23:44:17 [CLIENT] [INFO] [CHAT] /gamemode, /give, /scoreboard, /tp, /kill, /spreadplayers, /xp, /difficulty, /debug, /gamerule, /clear, /time, /help, /defaultgamemode, /weather, /me, /tell, /publish, /seed, /playsound, /forge, /msg, /spawnpoint, /w, /toggledownfall, /effect, /say, /testfor, /?, /enchant
+2014-01-30 23:44:20 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2014-01-30 23:44:39 [CLIENT] [INFO] Stopping!
+2014-01-30 23:44:56 [CLIENT] [INFO] Setting user: Player750
+2014-01-30 23:44:58 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-01-30 23:44:59 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-01-30 23:45:05 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-30 23:45:07 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-01-30 23:45:08 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-30 23:45:08 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-01-30 23:45:10 [CLIENT] [SEVERE] Realms: Server not available!
+2014-01-30 23:45:41 [CLIENT] [INFO] Stopping!
+2014-01-30 23:46:35 [CLIENT] [INFO] Setting user: Player968
+2014-01-30 23:46:37 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-01-30 23:46:38 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-01-30 23:46:45 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-30 23:46:47 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-01-30 23:46:49 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-30 23:46:49 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-01-30 23:46:51 [CLIENT] [SEVERE] Realms: Server not available!
+2014-01-30 23:47:16 [CLIENT] [INFO] Stopping!
+2014-01-30 23:47:54 [CLIENT] [INFO] Setting user: Player593
+2014-01-30 23:47:56 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-01-30 23:47:56 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-01-30 23:48:03 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-30 23:48:05 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-01-30 23:48:06 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-30 23:48:07 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-01-30 23:48:08 [CLIENT] [SEVERE] Realms: Server not available!
+2014-01-30 23:48:55 [CLIENT] [INFO] Stopping!
+2014-01-30 23:56:44 [CLIENT] [INFO] Setting user: Player843
+2014-01-30 23:56:46 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-01-30 23:56:47 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-01-30 23:56:55 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-30 23:56:58 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-01-30 23:57:01 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-30 23:57:02 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-01-30 23:57:08 [CLIENT] [SEVERE] Realms: Server not available!
+2014-01-30 23:57:14 [CLIENT] [INFO] Stopping!
+2014-01-30 23:57:32 [CLIENT] [INFO] Setting user: Player609
+2014-01-30 23:57:34 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-01-30 23:57:35 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-01-30 23:57:44 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-30 23:57:46 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-01-30 23:57:47 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-30 23:57:48 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-01-30 23:57:50 [CLIENT] [SEVERE] Realms: Server not available!
+2014-01-30 23:58:31 [CLIENT] [INFO] Stopping!
+2014-01-30 23:59:01 [CLIENT] [INFO] Setting user: Player578
+2014-01-30 23:59:03 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-01-30 23:59:03 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-01-30 23:59:10 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-30 23:59:12 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-01-30 23:59:14 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-30 23:59:14 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-01-30 23:59:16 [CLIENT] [SEVERE] Realms: Server not available!
+2014-01-30 23:59:39 [CLIENT] [INFO] Stopping!
+2014-01-31 00:08:11 [CLIENT] [INFO] Setting user: Player281
+2014-01-31 00:08:13 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-01-31 00:08:14 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-01-31 00:08:21 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-31 00:08:23 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-01-31 00:08:25 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-31 00:08:25 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-01-31 00:08:30 [CLIENT] [SEVERE] Realms: Server not available!
+2014-01-31 00:08:59 [CLIENT] [INFO] [CHAT] /gamemode, /give, /gamerule
+2014-01-31 00:09:01 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2014-01-31 00:09:23 [CLIENT] [INFO] [CHAT] /gamemode, /give, /gamerule
+2014-01-31 00:09:24 [CLIENT] [INFO] [CHAT] survival, creative, adventure
+2014-01-31 00:09:25 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2014-01-31 00:09:37 [CLIENT] [INFO] Stopping!
+2014-01-31 10:29:52 [CLIENT] [INFO] Setting user: Player812
+2014-01-31 10:29:54 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-01-31 10:29:54 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-01-31 10:30:10 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-31 10:30:11 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-01-31 10:30:12 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-31 10:30:12 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-01-31 10:30:16 [CLIENT] [SEVERE] Realms: Server not available!
+2014-01-31 10:31:06 [CLIENT] [INFO] Stopping!
+2014-01-31 10:31:10 [CLIENT] [INFO] Setting user: Player921
+2014-01-31 10:31:11 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-01-31 10:31:12 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-01-31 10:31:15 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-31 10:31:16 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-01-31 10:31:17 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-31 10:31:17 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-01-31 10:31:18 [CLIENT] [SEVERE] Realms: Server not available!
+2014-01-31 10:32:35 [CLIENT] [INFO] Stopping!
+2014-01-31 10:33:44 [CLIENT] [INFO] Setting user: Player15
+2014-01-31 10:33:45 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-01-31 10:33:46 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-01-31 10:33:49 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-31 10:33:49 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-01-31 10:33:50 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-31 10:33:50 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-01-31 10:33:51 [CLIENT] [SEVERE] Realms: Server not available!
+2014-01-31 10:34:36 [CLIENT] [INFO] Stopping!
+2014-01-31 10:37:17 [CLIENT] [INFO] Setting user: Player640
+2014-01-31 10:37:18 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-01-31 10:37:18 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-01-31 10:37:21 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-31 10:37:22 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-01-31 10:37:23 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-01-31 10:37:23 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-01-31 10:37:24 [CLIENT] [SEVERE] Realms: Server not available!
+2014-01-31 10:39:34 [CLIENT] [INFO] [CHAT] /gamemode, /give, /gamerule
+2014-01-31 10:39:36 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2014-01-31 10:39:47 [CLIENT] [INFO] Stopping!
+2014-02-03 00:26:35 [CLIENT] [INFO] Setting user: Player968
+2014-02-03 00:26:36 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-02-03 00:26:37 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-02-03 00:26:41 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-03 00:26:42 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-03 00:26:42 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_501_genericOre.png
+2014-02-03 00:26:42 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-03 00:26:42 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-03 00:26:42 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_501_genericOre.png
+2014-02-03 00:26:43 [CLIENT] [SEVERE] Realms: Server not available!
+2014-02-03 00:27:50 [CLIENT] [INFO] [CHAT] /gamemode, /give, /gamerule
+2014-02-03 00:27:53 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2014-02-03 00:28:05 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2014-02-03 00:28:45 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2014-02-03 00:29:13 [CLIENT] [INFO] Stopping!
+2014-02-03 00:37:09 [CLIENT] [INFO] Setting user: Player812
+2014-02-03 00:37:10 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-02-03 00:37:11 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-02-03 00:37:14 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-03 00:37:15 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-03 00:37:15 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_501_genericOre.png
+2014-02-03 00:37:15 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-03 00:37:16 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-03 00:37:16 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_501_genericOre.png
+2014-02-03 00:37:16 [CLIENT] [SEVERE] Realms: Server not available!
+2014-02-03 00:38:21 [CLIENT] [INFO] Stopping!
+2014-02-03 18:08:12 [CLIENT] [INFO] Setting user: Player734
+2014-02-03 18:08:14 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-02-03 18:08:15 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-02-03 18:08:21 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-03 18:08:22 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-03 18:08:22 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_501_genericOre.png
+2014-02-03 18:08:23 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-03 18:08:23 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-03 18:08:23 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_501_genericOre.png
+2014-02-03 18:08:27 [CLIENT] [SEVERE] Realms: Server not available!
+2014-02-03 18:08:39 [CLIENT] [INFO] Stopping!
+2014-02-03 18:09:26 [CLIENT] [INFO] Setting user: Player562
+2014-02-03 18:09:27 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-02-03 18:09:27 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-02-03 18:09:30 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-03 18:09:31 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-03 18:09:31 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_501_genericOre.png
+2014-02-03 18:09:32 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-03 18:09:32 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-03 18:09:32 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_501_genericOre.png
+2014-02-03 18:09:33 [CLIENT] [SEVERE] Realms: Server not available!
+2014-02-03 18:09:41 [CLIENT] [INFO] [CHAT] /gamemode, /give, /gamerule
+2014-02-03 18:09:56 [CLIENT] [INFO] [CHAT] There is no such item with ID 500
+2014-02-03 18:10:02 [CLIENT] [INFO] [CHAT] Given Generic Ore (ID 501) * 32 to Player562
+2014-02-03 18:10:14 [CLIENT] [INFO] Stopping!
+2014-02-03 18:14:13 [CLIENT] [INFO] Setting user: Player250
+2014-02-03 18:14:14 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-02-03 18:14:14 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-02-03 18:14:17 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-03 18:14:18 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-03 18:14:18 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_501_genericOre.png
+2014-02-03 18:14:19 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-03 18:14:19 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-03 18:14:19 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_501_genericOre.png
+2014-02-03 18:14:23 [CLIENT] [SEVERE] Realms: Server not available!
+2014-02-03 18:14:40 [CLIENT] [INFO] Stopping!
+2014-02-03 18:47:42 [CLIENT] [INFO] Setting user: Player609
+2014-02-03 18:47:43 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-02-03 18:47:43 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-02-03 18:47:47 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-03 18:47:47 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-03 18:47:47 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_501_genericOre.png
+2014-02-03 18:47:48 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_758_null.png
+2014-02-03 18:47:48 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-03 18:47:48 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_758_null.png
+2014-02-03 18:47:48 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-03 18:47:48 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_501_genericOre.png
+2014-02-03 18:47:52 [CLIENT] [SEVERE] Realms: Server not available!
+2014-02-03 18:48:14 [CLIENT] [INFO] Stopping!
+2014-02-03 21:10:35 [CLIENT] [INFO] Setting user: Player859
+2014-02-03 21:10:37 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-02-03 21:10:38 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-02-03 21:10:46 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-03 21:10:48 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-03 21:10:48 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_501_genericOre.png
+2014-02-03 21:10:48 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_759_genericIngot.png
+2014-02-03 21:10:48 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_758_genericItem.png
+2014-02-03 21:10:49 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-03 21:10:49 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_759_genericIngot.png
+2014-02-03 21:10:49 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_758_genericItem.png
+2014-02-03 21:10:49 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-03 21:10:49 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_501_genericOre.png
+2014-02-03 21:10:54 [CLIENT] [SEVERE] Realms: Server not available!
+2014-02-03 21:11:06 [CLIENT] [INFO] [CHAT] /gamemode, /give, /gamerule
+2014-02-03 21:11:08 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2014-02-03 21:11:53 [CLIENT] [INFO] [CHAT] set, add
+2014-02-03 21:11:54 [CLIENT] [INFO] [CHAT] day, night
+2014-02-03 21:11:55 [CLIENT] [INFO] [CHAT] day, night
+2014-02-03 21:11:56 [CLIENT] [INFO] [CHAT] Set the time to 12500
+2014-02-03 21:11:58 [CLIENT] [INFO] [CHAT] /gamemode, /give, /gamerule
+2014-02-03 21:11:59 [CLIENT] [INFO] [CHAT] /gamemode, /give, /gamerule
+2014-02-03 21:11:59 [CLIENT] [INFO] [CHAT] /gamemode, /give, /gamerule
+2014-02-03 21:12:01 [CLIENT] [INFO] [CHAT] commandBlockOutput, doDaylightCycle, doFireTick, doMobLoot, doMobSpawning, doTileDrops, keepInventory, mobGriefing, naturalRegeneration
+2014-02-03 21:12:02 [CLIENT] [INFO] [CHAT] commandBlockOutput, doDaylightCycle, doFireTick, doMobLoot, doMobSpawning, doTileDrops, keepInventory, mobGriefing, naturalRegeneration
+2014-02-03 21:12:03 [CLIENT] [INFO] [CHAT] commandBlockOutput, doDaylightCycle, doFireTick, doMobLoot, doMobSpawning, doTileDrops, keepInventory, mobGriefing, naturalRegeneration
+2014-02-03 21:12:04 [CLIENT] [INFO] [CHAT] commandBlockOutput, doDaylightCycle, doFireTick, doMobLoot, doMobSpawning, doTileDrops, keepInventory, mobGriefing, naturalRegeneration
+2014-02-03 21:12:04 [CLIENT] [INFO] [CHAT] commandBlockOutput, doDaylightCycle, doFireTick, doMobLoot, doMobSpawning, doTileDrops, keepInventory, mobGriefing, naturalRegeneration
+2014-02-03 21:12:06 [CLIENT] [INFO] [CHAT] true, false
+2014-02-03 21:12:07 [CLIENT] [INFO] [CHAT] true, false
+2014-02-03 21:12:07 [CLIENT] [INFO] [CHAT] Game rule has been updated
+2014-02-03 21:12:13 [CLIENT] [INFO] [CHAT] /gamemode, /give, /scoreboard, /tp, /kill, /spreadplayers, /xp, /difficulty, /debug, /gamerule, /clear, /time, /help, /defaultgamemode, /weather, /me, /tell, /publish, /seed, /playsound, /forge, /msg, /spawnpoint, /w, /toggledownfall, /effect, /say, /testfor, /?, /enchant
+2014-02-03 21:12:14 [CLIENT] [INFO] [CHAT] /gamemode, /give, /scoreboard, /tp, /kill, /spreadplayers, /xp, /difficulty, /debug, /gamerule, /clear, /time, /help, /defaultgamemode, /weather, /me, /tell, /publish, /seed, /playsound, /forge, /msg, /spawnpoint, /w, /toggledownfall, /effect, /say, /testfor, /?, /enchant
+2014-02-03 21:12:15 [CLIENT] [INFO] [CHAT] /gamemode, /give, /scoreboard, /tp, /kill, /spreadplayers, /xp, /difficulty, /debug, /gamerule, /clear, /time, /help, /defaultgamemode, /weather, /me, /tell, /publish, /seed, /playsound, /forge, /msg, /spawnpoint, /w, /toggledownfall, /effect, /say, /testfor, /?, /enchant
+2014-02-03 21:12:16 [CLIENT] [INFO] [CHAT] /gamemode, /give, /scoreboard, /tp, /kill, /spreadplayers, /xp, /difficulty, /debug, /gamerule, /clear, /time, /help, /defaultgamemode, /weather, /me, /tell, /publish, /seed, /playsound, /forge, /msg, /spawnpoint, /w, /toggledownfall, /effect, /say, /testfor, /?, /enchant
+2014-02-03 21:12:16 [CLIENT] [INFO] [CHAT] /gamemode, /give, /scoreboard, /tp, /kill, /spreadplayers, /xp, /difficulty, /debug, /gamerule, /clear, /time, /help, /defaultgamemode, /weather, /me, /tell, /publish, /seed, /playsound, /forge, /msg, /spawnpoint, /w, /toggledownfall, /effect, /say, /testfor, /?, /enchant
+2014-02-03 21:12:16 [CLIENT] [INFO] [CHAT] /gamemode, /give, /scoreboard, /tp, /kill, /spreadplayers, /xp, /difficulty, /debug, /gamerule, /clear, /time, /help, /defaultgamemode, /weather, /me, /tell, /publish, /seed, /playsound, /forge, /msg, /spawnpoint, /w, /toggledownfall, /effect, /say, /testfor, /?, /enchant
+2014-02-03 21:12:17 [CLIENT] [INFO] [CHAT] /gamemode, /give, /scoreboard, /tp, /kill, /spreadplayers, /xp, /difficulty, /debug, /gamerule, /clear, /time, /help, /defaultgamemode, /weather, /me, /tell, /publish, /seed, /playsound, /forge, /msg, /spawnpoint, /w, /toggledownfall, /effect, /say, /testfor, /?, /enchant
+2014-02-03 21:12:50 [CLIENT] [INFO] Stopping!
+2014-02-03 21:13:13 [CLIENT] [INFO] Setting user: Player421
+2014-02-03 21:13:15 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-02-03 21:13:16 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-02-03 21:13:24 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-03 21:13:25 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-03 21:13:25 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_501_genericOre.png
+2014-02-03 21:13:26 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_759_genericIngot.png
+2014-02-03 21:13:26 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_758_genericItem.png
+2014-02-03 21:13:26 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-03 21:13:26 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_759_genericIngot.png
+2014-02-03 21:13:26 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_758_genericItem.png
+2014-02-03 21:13:27 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-03 21:13:27 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_501_genericOre.png
+2014-02-03 21:13:28 [CLIENT] [SEVERE] Realms: Server not available!
+2014-02-03 21:14:07 [CLIENT] [INFO] [CHAT] This is not a Zombie or a Creeper, the gun only works on Zombies and Creepers for now.
+2014-02-03 21:14:08 [CLIENT] [INFO] [CHAT] This is not a Zombie or a Creeper, the gun only works on Zombies and Creepers for now.
+2014-02-03 21:14:10 [CLIENT] [INFO] [CHAT] This is not a Zombie or a Creeper, the gun only works on Zombies and Creepers for now.
+2014-02-03 21:14:14 [CLIENT] [INFO] [CHAT] This is not a Zombie or a Creeper, the gun only works on Zombies and Creepers for now.
+2014-02-03 21:15:06 [CLIENT] [INFO] [CHAT] This is not a Zombie or a Creeper, the gun only works on Zombies and Creepers for now.
+2014-02-03 21:15:07 [CLIENT] [INFO] [CHAT] This is not a Zombie or a Creeper, the gun only works on Zombies and Creepers for now.
+2014-02-03 21:15:59 [CLIENT] [INFO] Stopping!
+2014-02-03 21:16:16 [CLIENT] [INFO] Setting user: Player921
+2014-02-03 21:16:18 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-02-03 21:16:19 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-02-03 21:16:26 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-03 21:16:27 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-03 21:16:27 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_501_genericOre.png
+2014-02-03 21:16:28 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_759_genericIngot.png
+2014-02-03 21:16:28 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_758_genericItem.png
+2014-02-03 21:16:28 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-03 21:16:28 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_759_genericIngot.png
+2014-02-03 21:16:28 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_758_genericItem.png
+2014-02-03 21:16:29 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-03 21:16:29 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_501_genericOre.png
+2014-02-03 21:16:30 [CLIENT] [SEVERE] Realms: Server not available!
+2014-02-03 21:18:03 [CLIENT] [INFO] [CHAT] This is not a Zombie or a Creeper, the gun only works on Zombies and Creepers for now.
+2014-02-03 21:18:05 [CLIENT] [INFO] [CHAT] This is not a Zombie or a Creeper, the gun only works on Zombies and Creepers for now.
+2014-02-03 21:18:14 [CLIENT] [INFO] Stopping!
+2014-02-03 21:19:53 [CLIENT] [INFO] Setting user: Player218
+2014-02-03 21:19:55 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-02-03 21:19:56 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-02-03 21:20:03 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-03 21:20:04 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-03 21:20:04 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_501_genericOre.png
+2014-02-03 21:20:06 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_759_genericIngot.png
+2014-02-03 21:20:06 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_758_genericItem.png
+2014-02-03 21:20:07 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-03 21:20:07 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_759_genericIngot.png
+2014-02-03 21:20:07 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_758_genericItem.png
+2014-02-03 21:20:07 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-03 21:20:07 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_501_genericOre.png
+2014-02-03 21:20:09 [CLIENT] [SEVERE] Realms: Server not available!
+2014-02-03 21:21:54 [CLIENT] [INFO] Stopping!
+2014-02-04 11:44:55 [CLIENT] [INFO] Setting user: Player17
+2014-02-04 11:44:56 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-02-04 11:44:56 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-02-04 11:45:03 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-04 11:45:04 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-04 11:45:04 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_501_genericOre.png
+2014-02-04 11:45:04 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_5256_genericItem.png
+2014-02-04 11:45:04 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-04 11:45:04 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_5256_genericItem.png
+2014-02-04 11:45:05 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-04 11:45:05 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_501_genericOre.png
+2014-02-04 11:45:08 [CLIENT] [SEVERE] Realms: Server not available!
+2014-02-04 11:46:18 [CLIENT] [INFO] [CHAT] /gamemode, /give, /scoreboard, /tp, /kill, /spreadplayers, /xp, /difficulty, /debug, /gamerule, /clear, /time, /help, /defaultgamemode, /weather, /me, /tell, /publish, /seed, /playsound, /forge, /msg, /spawnpoint, /w, /toggledownfall, /effect, /say, /testfor, /?, /enchant
+2014-02-04 11:46:45 [CLIENT] [INFO] [CHAT] /gamemode, /give, /gamerule
+2014-02-04 11:46:46 [CLIENT] [INFO] [CHAT] survival, creative, adventure
+2014-02-04 11:46:47 [CLIENT] [INFO] [CHAT] survival, creative, adventure
+2014-02-04 11:46:47 [CLIENT] [INFO] [CHAT] survival, creative, adventure
+2014-02-04 11:46:48 [CLIENT] [INFO] [CHAT] survival, creative, adventure
+2014-02-04 11:46:49 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2014-02-04 11:47:25 [CLIENT] [INFO] [CHAT] /gamemode, /give, /gamerule
+2014-02-04 11:47:27 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2014-02-04 11:48:19 [CLIENT] [INFO] [CHAT] This is not a Zombie or a Creeper, the gun only works on Zombies and Creepers for now.
+2014-02-04 11:48:31 [CLIENT] [INFO] Stopping!
+2014-02-04 11:56:27 [CLIENT] [INFO] Setting user: Player406
+2014-02-04 11:56:28 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-02-04 11:56:28 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-02-04 11:56:31 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-04 11:56:32 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-04 11:56:32 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_501_genericOre.png
+2014-02-04 11:56:32 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_5256_genericItem.png
+2014-02-04 11:56:32 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-04 11:56:32 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_5256_genericItem.png
+2014-02-04 11:56:33 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-04 11:56:33 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_501_genericOre.png
+2014-02-04 11:56:36 [CLIENT] [SEVERE] Realms: Server not available!
+2014-02-04 11:56:53 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2014-02-04 11:57:35 [CLIENT] [INFO] Stopping!
+2014-02-04 11:57:47 [CLIENT] [INFO] Setting user: Player867
+2014-02-04 11:57:48 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-02-04 11:57:48 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-02-04 11:57:51 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-04 11:57:52 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-04 11:57:52 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_501_genericOre.png
+2014-02-04 11:57:52 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_5256_genericItem.png
+2014-02-04 11:57:53 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-04 11:57:53 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_5256_genericItem.png
+2014-02-04 11:57:53 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-04 11:57:53 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_501_genericOre.png
+2014-02-04 11:57:54 [CLIENT] [SEVERE] Realms: Server not available!
+2014-02-04 11:58:26 [CLIENT] [INFO] Stopping!
+2014-02-04 13:52:20 [CLIENT] [INFO] Setting user: Player343
+2014-02-04 13:52:21 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-02-04 13:52:22 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-02-04 13:52:29 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-04 13:52:30 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-04 13:52:30 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_501_genericOre.png
+2014-02-04 13:52:30 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_5256_genericItem.png
+2014-02-04 13:52:30 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-04 13:52:30 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_5256_genericItem.png
+2014-02-04 13:52:30 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-04 13:52:30 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_501_genericOre.png
+2014-02-04 13:52:34 [CLIENT] [SEVERE] Realms: Server not available!
+2014-02-04 13:53:13 [CLIENT] [INFO] [CHAT] This is not a Zombie or a Creeper, the gun only works on Zombies and Creepers for now.
+2014-02-04 13:53:13 [CLIENT] [INFO] [CHAT] This is not a Zombie or a Creeper, the gun only works on Zombies and Creepers for now.
+2014-02-04 13:53:13 [CLIENT] [INFO] [CHAT] This is not a Zombie or a Creeper, the gun only works on Zombies and Creepers for now.
+2014-02-04 13:53:14 [CLIENT] [INFO] [CHAT] This is not a Zombie or a Creeper, the gun only works on Zombies and Creepers for now.
+2014-02-04 13:53:14 [CLIENT] [INFO] [CHAT] This is not a Zombie or a Creeper, the gun only works on Zombies and Creepers for now.
+2014-02-04 13:53:14 [CLIENT] [INFO] [CHAT] This is not a Zombie or a Creeper, the gun only works on Zombies and Creepers for now.
+2014-02-04 13:53:49 [CLIENT] [INFO] Stopping!
+2014-02-04 13:55:07 [CLIENT] [INFO] Setting user: Player437
+2014-02-04 13:55:08 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-02-04 13:55:08 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-02-04 13:55:11 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-04 13:55:12 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-04 13:55:12 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_501_genericOre.png
+2014-02-04 13:55:13 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_5256_genericItem.png
+2014-02-04 13:55:13 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-04 13:55:13 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_5256_genericItem.png
+2014-02-04 13:55:13 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-04 13:55:13 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_501_genericOre.png
+2014-02-04 13:55:14 [CLIENT] [SEVERE] Realms: Server not available!
+2014-02-04 13:55:25 [CLIENT] [INFO] [CHAT] /gamemode, /give, /gamerule
+2014-02-04 13:55:27 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2014-02-04 13:55:48 [CLIENT] [INFO] [CHAT] /gamemode, /give, /gamerule
+2014-02-04 13:55:50 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2014-02-04 13:55:58 [CLIENT] [INFO] [CHAT] /gamemode, /give, /gamerule
+2014-02-04 13:56:00 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2014-02-04 13:56:03 [CLIENT] [INFO] Stopping!
+2014-02-04 13:56:26 [CLIENT] [INFO] Setting user: Player968
+2014-02-04 13:56:27 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-02-04 13:56:28 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-02-04 13:56:31 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-04 13:56:32 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-04 13:56:32 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_501_genericOre.png
+2014-02-04 13:56:32 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_756_genericItem.png
+2014-02-04 13:56:32 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-04 13:56:32 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_756_genericItem.png
+2014-02-04 13:56:33 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-04 13:56:33 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_501_genericOre.png
+2014-02-04 13:56:33 [CLIENT] [SEVERE] Realms: Server not available!
+2014-02-04 13:57:25 [CLIENT] [INFO] [CHAT] /scoreboard, /spreadplayers, /seed, /spawnpoint, /say
+2014-02-04 13:57:26 [CLIENT] [INFO] [CHAT] /scoreboard, /spreadplayers, /seed, /spawnpoint, /say
+2014-02-04 13:57:37 [CLIENT] [INFO] [CHAT] This is not a Zombie or a Creeper, the gun only works on Zombies and Creepers for now.
+2014-02-04 13:57:39 [CLIENT] [INFO] [CHAT] This is not a Zombie or a Creeper, the gun only works on Zombies and Creepers for now.
+2014-02-04 13:57:52 [CLIENT] [INFO] Stopping!
+2014-02-04 16:13:23 [CLIENT] [INFO] Setting user: Player376
+2014-02-04 16:13:24 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-02-04 16:13:25 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-02-04 16:13:31 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-04 16:13:32 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-04 16:13:32 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_501_genericOre.png
+2014-02-04 16:13:32 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_756_genericItem.png
+2014-02-04 16:13:32 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-04 16:13:33 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_756_genericItem.png
+2014-02-04 16:13:33 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-04 16:13:33 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_501_genericOre.png
+2014-02-04 16:13:37 [CLIENT] [SEVERE] Realms: Server not available!
+2014-02-04 16:13:47 [CLIENT] [INFO] [CHAT] /gamemode, /give, /gamerule
+2014-02-04 16:13:49 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2014-02-04 16:15:52 [CLIENT] [INFO] [CHAT] /tp, /time, /tell, /toggledownfall, /testfor
+2014-02-04 16:15:52 [CLIENT] [INFO] [CHAT] /tp, /time, /tell, /toggledownfall, /testfor
+2014-02-04 16:15:56 [CLIENT] [INFO] [CHAT] day, night
+2014-02-04 16:15:57 [CLIENT] [INFO] [CHAT] day, night
+2014-02-04 16:15:58 [CLIENT] [INFO] [CHAT] Set the time to 12500
+2014-02-04 16:16:14 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2014-02-04 16:17:09 [CLIENT] [INFO] [CHAT] /gamemode, /give, /gamerule
+2014-02-04 16:17:10 [CLIENT] [INFO] [CHAT] /gamemode, /give, /gamerule
+2014-02-04 16:17:44 [CLIENT] [INFO] [CHAT] 'iron_pickaxe' is not a valid number
+2014-02-04 16:17:50 [CLIENT] [INFO] [CHAT] /gamemode, /give, /gamerule
+2014-02-04 16:17:52 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2014-02-04 16:18:03 [CLIENT] [INFO] [CHAT] /gamemode, /give, /scoreboard, /tp, /kill, /spreadplayers, /xp, /difficulty, /debug, /gamerule, /clear, /time, /help, /defaultgamemode, /weather, /me, /tell, /publish, /seed, /playsound, /forge, /msg, /spawnpoint, /w, /toggledownfall, /effect, /say, /testfor, /?, /enchant
+2014-02-04 16:18:18 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2014-02-04 16:19:55 [CLIENT] [INFO] [CHAT] This is not a Zombie or a Creeper, the gun only works on Zombies and Creepers for now.
+2014-02-04 16:20:29 [CLIENT] [INFO] Stopping!
+2014-02-04 16:22:35 [CLIENT] [INFO] Setting user: Player421
+2014-02-04 16:22:36 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-02-04 16:22:36 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-02-04 16:22:39 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-04 16:22:40 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-04 16:22:40 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_501_genericOre.png
+2014-02-04 16:22:40 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_756_genericItem.png
+2014-02-04 16:22:41 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-04 16:22:41 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_756_genericItem.png
+2014-02-04 16:22:41 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-04 16:22:41 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_501_genericOre.png
+2014-02-04 16:22:45 [CLIENT] [SEVERE] Realms: Server not available!
+2014-02-04 16:23:26 [CLIENT] [INFO] Stopping!
+2014-02-04 19:34:24 [CLIENT] [INFO] Setting user: Player15
+2014-02-04 19:34:25 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-02-04 19:34:26 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-02-04 19:34:29 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-04 19:34:30 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-04 19:34:30 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_501_genericOre.png
+2014-02-04 19:34:30 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_756_genericItem.png
+2014-02-04 19:34:31 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-04 19:34:31 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_756_genericItem.png
+2014-02-04 19:34:31 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-04 19:34:31 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_501_genericOre.png
+2014-02-04 19:34:35 [CLIENT] [SEVERE] Realms: Server not available!
+2014-02-04 19:34:43 [CLIENT] [INFO] [CHAT] /gamemode, /give, /scoreboard, /tp, /kill, /spreadplayers, /xp, /difficulty, /debug, /gamerule, /clear, /time, /help, /defaultgamemode, /weather, /me, /tell, /publish, /seed, /playsound, /forge, /msg, /spawnpoint, /w, /toggledownfall, /effect, /say, /testfor, /?, /enchant
+2014-02-04 19:34:45 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2014-02-04 19:35:22 [CLIENT] [INFO] [CHAT] /gamemode, /give, /scoreboard, /tp, /kill, /spreadplayers, /xp, /difficulty, /debug, /gamerule, /clear, /time, /help, /defaultgamemode, /weather, /me, /tell, /publish, /seed, /playsound, /forge, /msg, /spawnpoint, /w, /toggledownfall, /effect, /say, /testfor, /?, /enchant
+2014-02-04 19:35:26 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2014-02-04 19:35:29 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2014-02-04 19:35:41 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2014-02-04 19:36:55 [CLIENT] [INFO] [CHAT] This is not a Zombie or a Creeper, the gun only works on Zombies and Creepers for now.
+2014-02-04 19:36:55 [CLIENT] [INFO] [CHAT] This is not a Zombie or a Creeper, the gun only works on Zombies and Creepers for now.
+2014-02-04 19:36:55 [CLIENT] [INFO] [CHAT] Player15 was shot by Skeleton
+2014-02-04 19:37:05 [CLIENT] [INFO] [CHAT] /gamemode, /give, /gamerule
+2014-02-04 19:37:08 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2014-02-04 19:37:20 [CLIENT] [INFO] [CHAT] This is not a Zombie or a Creeper, the gun only works on Zombies and Creepers for now.
+2014-02-04 19:37:20 [CLIENT] [INFO] [CHAT] This is not a Zombie or a Creeper, the gun only works on Zombies and Creepers for now.
+2014-02-04 19:37:20 [CLIENT] [INFO] [CHAT] This is not a Zombie or a Creeper, the gun only works on Zombies and Creepers for now.
+2014-02-04 19:37:21 [CLIENT] [INFO] [CHAT] This is not a Zombie or a Creeper, the gun only works on Zombies and Creepers for now.
+2014-02-04 19:39:12 [CLIENT] [INFO] Stopping!
+2014-02-17 04:09:09 [CLIENT] [INFO] Setting user: Player250
+2014-02-17 04:09:11 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-02-17 04:09:12 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-02-17 04:09:20 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-17 04:09:20 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-17 04:09:20 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_501_genericOre.png
+2014-02-17 04:09:21 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-17 04:09:21 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-17 04:09:21 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_501_genericOre.png
+2014-02-17 04:09:25 [CLIENT] [SEVERE] Realms: Server not available!
+2014-02-17 04:09:36 [CLIENT] [INFO] [CHAT] This is not a Zombie or a Creeper, the gun only works on Zombies and Creepers for now.
+2014-02-17 04:10:03 [CLIENT] [INFO] Stopping!
+2014-02-17 04:11:11 [CLIENT] [INFO] Setting user: Player734
+2014-02-17 04:11:12 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-02-17 04:11:13 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-02-17 04:11:16 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-17 04:11:16 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-17 04:11:16 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_501_genericOre.png
+2014-02-17 04:11:17 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-17 04:11:17 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-17 04:11:17 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_501_genericOre.png
+2014-02-17 04:11:18 [CLIENT] [SEVERE] Realms: Server not available!
+2014-02-17 04:12:00 [CLIENT] [INFO] Stopping!
+2014-02-17 04:16:04 [CLIENT] [INFO] Setting user: Player859
+2014-02-17 04:16:05 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-02-17 04:16:05 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-02-17 04:16:09 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-17 04:16:09 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-17 04:16:09 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_501_genericOre.png
+2014-02-17 04:16:10 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-17 04:16:10 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-17 04:16:10 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_501_genericOre.png
+2014-02-17 04:16:14 [CLIENT] [SEVERE] Realms: Server not available!
+2014-02-17 04:16:34 [CLIENT] [INFO] Stopping!
+2014-02-17 04:24:32 [CLIENT] [INFO] Setting user: Player515
+2014-02-17 04:24:33 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-02-17 04:24:33 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-02-17 04:24:36 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-17 04:24:37 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-17 04:24:37 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_501_genericOre.png
+2014-02-17 04:24:37 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-17 04:24:38 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-17 04:24:38 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_501_genericOre.png
+2014-02-17 04:24:41 [CLIENT] [SEVERE] Realms: Server not available!
+2014-02-17 04:26:46 [CLIENT] [INFO] Stopping!
+2014-02-17 04:50:54 [CLIENT] [INFO] Setting user: Player687
+2014-02-17 04:50:55 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-02-17 04:50:56 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-02-17 04:50:59 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-17 04:51:21 [CLIENT] [INFO] Setting user: Player484
+2014-02-17 04:51:22 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-02-17 04:51:22 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-02-17 04:51:25 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-17 04:52:46 [CLIENT] [INFO] Setting user: Player593
+2014-02-17 04:52:47 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-02-17 04:52:47 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-02-17 04:52:50 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-17 04:53:10 [CLIENT] [INFO] Setting user: Player359
+2014-02-17 04:53:11 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-02-17 04:53:11 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-02-17 04:53:14 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-17 04:54:35 [CLIENT] [INFO] Setting user: Player406
+2014-02-17 04:54:36 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-02-17 04:54:36 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-02-17 04:54:39 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-17 04:58:41 [CLIENT] [INFO] Setting user: Player859
+2014-02-17 04:58:42 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-02-17 04:58:42 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-02-17 04:58:46 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-17 04:58:46 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-17 04:58:46 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_501_genericOre.png
+2014-02-17 04:58:47 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-17 04:58:47 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-17 04:58:47 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_501_genericOre.png
+2014-02-17 04:58:51 [CLIENT] [SEVERE] Realms: Server not available!
+2014-02-17 04:59:03 [CLIENT] [INFO] Stopping!
+2014-02-17 05:03:03 [CLIENT] [INFO] Setting user: Player390
+2014-02-17 05:03:04 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-02-17 05:03:04 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-02-17 05:03:07 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-17 05:03:08 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-17 05:03:08 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_501_genericOre.png
+2014-02-17 05:03:09 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-17 05:03:09 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-17 05:03:09 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_501_genericOre.png
+2014-02-17 05:03:09 [CLIENT] [SEVERE] Realms: Server not available!
+2014-02-17 05:05:45 [CLIENT] [INFO] Stopping!
+2014-02-17 12:45:11 [CLIENT] [INFO] Setting user: Player296
+2014-02-17 12:45:11 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-02-17 12:45:12 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-02-17 12:45:15 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-17 12:45:16 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-17 12:45:16 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_501_genericOre.png
+2014-02-17 12:45:16 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-17 12:45:16 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-17 12:45:16 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_501_genericOre.png
+2014-02-17 12:45:20 [CLIENT] [SEVERE] Realms: Server not available!
+2014-02-17 12:45:30 [CLIENT] [INFO] Stopping!
+2014-02-17 12:51:16 [CLIENT] [INFO] Setting user: Player390
+2014-02-17 12:51:17 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-02-17 12:51:17 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-02-17 12:51:21 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-17 12:51:21 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-17 12:51:21 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_501_genericOre.png
+2014-02-17 12:51:22 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-17 12:51:23 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-17 12:51:23 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_501_genericOre.png
+2014-02-17 12:51:23 [CLIENT] [SEVERE] Realms: Server not available!
+2014-02-17 12:52:03 [CLIENT] [INFO] Stopping!
+2014-02-17 12:53:06 [CLIENT] [INFO] Setting user: Player406
+2014-02-17 12:53:07 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-02-17 12:53:07 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-02-17 12:53:10 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-17 12:53:11 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-17 12:53:11 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_501_genericOre.png
+2014-02-17 12:53:12 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-17 12:53:12 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-17 12:53:12 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_501_genericOre.png
+2014-02-17 12:53:13 [CLIENT] [SEVERE] Realms: Server not available!
+2014-02-17 12:53:37 [CLIENT] [INFO] Stopping!
+2014-02-17 12:54:55 [CLIENT] [INFO] Setting user: Player625
+2014-02-17 12:54:56 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-02-17 12:54:56 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-02-17 12:54:59 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-17 12:55:00 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-17 12:55:00 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_501_genericOre.png
+2014-02-17 12:55:01 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-17 12:55:01 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-17 12:55:01 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_501_genericOre.png
+2014-02-17 12:55:02 [CLIENT] [SEVERE] Realms: Server not available!
+2014-02-17 12:55:04 [CLIENT] [INFO] Stopping!
+2014-02-17 12:56:00 [CLIENT] [INFO] Setting user: Player718
+2014-02-17 12:56:01 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-02-17 12:56:01 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-02-17 12:56:05 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-17 12:56:05 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-17 12:56:05 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_501_genericOre.png
+2014-02-17 12:56:06 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-17 12:56:06 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-17 12:56:06 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_501_genericOre.png
+2014-02-17 12:56:07 [CLIENT] [SEVERE] Realms: Server not available!
+2014-02-17 12:56:15 [CLIENT] [INFO] Stopping!
+2014-02-17 14:18:08 [CLIENT] [INFO] Setting user: Player796
+2014-02-17 14:18:10 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-02-17 14:18:10 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-02-17 14:18:17 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-17 14:18:17 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-17 14:18:17 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_501_genericOre.png
+2014-02-17 14:18:18 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-17 14:18:18 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-17 14:18:18 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_501_genericOre.png
+2014-02-17 14:18:22 [CLIENT] [SEVERE] Realms: Server not available!
+2014-02-17 14:19:57 [CLIENT] [INFO] Stopping!
+2014-02-17 14:25:28 [CLIENT] [INFO] Setting user: Player421
+2014-02-17 14:25:29 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-02-17 14:25:29 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-02-17 14:25:32 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-17 14:25:33 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-17 14:25:33 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_501_genericOre.png
+2014-02-17 14:25:34 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-17 14:25:34 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-17 14:25:34 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_501_genericOre.png
+2014-02-17 14:25:38 [CLIENT] [SEVERE] Realms: Server not available!
+2014-02-17 14:26:03 [CLIENT] [INFO] Stopping!
+2014-02-17 14:27:23 [CLIENT] [INFO] Setting user: Player734
+2014-02-17 14:27:24 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-02-17 14:27:24 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-02-17 14:27:27 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-17 17:44:48 [CLIENT] [INFO] Setting user: Player500
+2014-02-17 17:44:50 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-02-17 17:44:50 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-02-17 17:44:57 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-17 17:44:57 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-17 17:44:57 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_501_genericOre.png
+2014-02-17 17:44:58 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-17 17:44:58 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-17 17:44:58 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_501_genericOre.png
+2014-02-17 17:45:02 [CLIENT] [SEVERE] Realms: Server not available!
+2014-02-17 17:45:43 [CLIENT] [INFO] Stopping!
+2014-02-17 17:46:14 [CLIENT] [INFO] Setting user: Player906
+2014-02-17 17:46:15 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-02-17 17:46:16 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-02-17 17:46:19 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-17 17:46:19 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-17 17:46:19 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_501_genericOre.png
+2014-02-17 17:46:20 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-17 17:46:20 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-17 17:46:20 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_501_genericOre.png
+2014-02-17 17:46:21 [CLIENT] [SEVERE] Realms: Server not available!
+2014-02-17 17:47:07 [CLIENT] [INFO] Stopping!
+2014-02-17 19:38:41 [CLIENT] [INFO] Setting user: Player875
+2014-02-17 19:38:42 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-02-17 19:38:42 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-02-17 19:38:46 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-17 19:38:46 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-17 19:38:46 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_501_genericOre.png
+2014-02-17 19:38:47 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-17 19:38:47 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-17 19:38:47 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_501_genericOre.png
+2014-02-17 19:38:51 [CLIENT] [SEVERE] Realms: Server not available!
+2014-02-17 19:39:35 [CLIENT] [INFO] Stopping!
+2014-02-17 19:42:54 [CLIENT] [INFO] Setting user: Player62
+2014-02-17 19:42:55 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-02-17 19:42:56 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-02-17 19:42:59 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-17 19:42:59 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-17 19:43:00 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_501_genericOre.png
+2014-02-17 19:43:00 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-17 19:43:01 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-17 19:43:01 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_501_genericOre.png
+2014-02-17 19:43:04 [CLIENT] [SEVERE] Realms: Server not available!
+2014-02-17 19:46:10 [CLIENT] [INFO] Stopping!
+2014-02-17 19:48:51 [CLIENT] [INFO] Setting user: Player921
+2014-02-17 19:48:52 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-02-17 19:48:52 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-02-17 19:48:56 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-17 19:48:56 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-17 19:48:56 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_501_genericOre.png
+2014-02-17 19:48:57 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-17 19:48:57 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-17 19:48:57 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_501_genericOre.png
+2014-02-17 19:49:01 [CLIENT] [SEVERE] Realms: Server not available!
+2014-02-17 19:49:37 [CLIENT] [INFO] Stopping!
+2014-02-17 19:54:32 [CLIENT] [INFO] Setting user: Player890
+2014-02-17 19:54:33 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-02-17 19:54:33 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-02-17 19:54:37 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-17 19:54:37 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-17 19:54:37 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_501_genericOre.png
+2014-02-17 19:54:38 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-17 19:54:38 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-17 19:54:38 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_501_genericOre.png
+2014-02-17 19:54:42 [CLIENT] [SEVERE] Realms: Server not available!
+2014-02-17 19:54:54 [CLIENT] [INFO] Stopping!
+2014-02-17 19:55:10 [CLIENT] [INFO] Setting user: Player218
+2014-02-17 19:55:11 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-02-17 19:55:12 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-02-17 19:55:15 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-17 19:55:16 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-17 19:55:16 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_501_genericOre.png
+2014-02-17 19:55:16 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-17 19:55:17 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-17 19:55:17 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_501_genericOre.png
+2014-02-17 19:55:21 [CLIENT] [SEVERE] Realms: Server not available!
+2014-02-17 19:55:54 [CLIENT] [INFO] Stopping!
+2014-02-17 21:36:45 [CLIENT] [INFO] Setting user: Player31
+2014-02-17 21:36:47 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-02-17 21:36:47 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-02-17 21:36:51 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-17 21:36:52 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/basicgravgun_ore.png
+2014-02-17 21:36:52 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-17 21:36:53 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-17 21:36:53 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/basicgravgun_ore.png
+2014-02-17 21:36:53 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-17 21:36:57 [CLIENT] [SEVERE] Realms: Server not available!
+2014-02-17 21:38:28 [CLIENT] [INFO] Stopping!
+2014-02-17 21:39:04 [CLIENT] [INFO] Setting user: Player656
+2014-02-17 21:39:05 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-02-17 21:39:05 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-02-17 21:39:09 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-17 21:39:10 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/basicgravgun_ore.png
+2014-02-17 21:39:10 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-17 21:39:10 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-17 21:39:11 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/basicgravgun_ore.png
+2014-02-17 21:39:11 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-17 21:39:18 [CLIENT] [SEVERE] Realms: Server not available!
+2014-02-17 21:39:44 [CLIENT] [INFO] Stopping!
+2014-02-17 22:37:07 [CLIENT] [INFO] Setting user: Player671
+2014-02-17 22:37:09 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-02-17 22:37:09 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-02-17 22:37:14 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-17 22:37:15 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/basicgravgun_ore.png
+2014-02-17 22:37:15 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-17 22:37:16 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-17 22:37:16 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/basicgravgun_ore.png
+2014-02-17 22:37:16 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-17 22:37:20 [CLIENT] [SEVERE] Realms: Server not available!
+2014-02-17 22:39:29 [CLIENT] [INFO] [CHAT] This is not a Zombie or a Creeper, the gun only works on Zombies and Creepers for now.
+2014-02-17 22:40:07 [CLIENT] [INFO] Stopping!
+2014-02-17 22:47:21 [CLIENT] [INFO] Setting user: Player562
+2014-02-17 22:47:22 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-02-17 22:47:23 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-02-17 22:47:27 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-17 22:47:28 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/basicgravgun_ore.png
+2014-02-17 22:47:28 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-17 22:47:29 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-17 22:47:29 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/basicgravgun_ore.png
+2014-02-17 22:47:29 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-17 22:47:34 [CLIENT] [SEVERE] Realms: Server not available!
+2014-02-17 22:49:35 [CLIENT] [INFO] Stopping!
+2014-02-17 23:08:17 [CLIENT] [INFO] Setting user: Player281
+2014-02-17 23:08:18 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-02-17 23:08:18 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-02-17 23:08:21 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-17 23:08:22 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/basicgravgun_ore.png
+2014-02-17 23:08:22 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-17 23:08:23 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-17 23:08:23 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/basicgravgun_ore.png
+2014-02-17 23:08:23 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-17 23:08:27 [CLIENT] [SEVERE] Realms: Server not available!
+2014-02-17 23:08:35 [CLIENT] [INFO] Stopping!
+2014-02-17 23:10:00 [CLIENT] [INFO] Setting user: Player671
+2014-02-17 23:10:01 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-02-17 23:10:01 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-02-17 23:10:05 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-17 23:10:05 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-17 23:10:06 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-17 23:10:06 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-17 23:10:10 [CLIENT] [SEVERE] Realms: Server not available!
+2014-02-17 23:11:03 [CLIENT] [INFO] [CHAT] /gamemode, /give, /gamerule
+2014-02-17 23:11:05 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2014-02-17 23:11:27 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2014-02-17 23:12:35 [CLIENT] [INFO] [CHAT] This is not a Zombie or a Creeper, the gun only works on Zombies and Creepers for now.
+2014-02-17 23:12:35 [CLIENT] [INFO] [CHAT] This is not a Zombie or a Creeper, the gun only works on Zombies and Creepers for now.
+2014-02-17 23:12:36 [CLIENT] [INFO] [CHAT] This is not a Zombie or a Creeper, the gun only works on Zombies and Creepers for now.
+2014-02-17 23:13:05 [CLIENT] [INFO] Stopping!
+2014-02-23 02:30:38 [CLIENT] [INFO] Setting user: Player359
+2014-02-23 02:30:49 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-02-23 02:30:52 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-02-23 02:31:20 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-23 02:31:21 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-23 02:31:22 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-23 02:31:23 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-23 02:31:28 [CLIENT] [SEVERE] Realms: Server not available!
+2014-02-23 02:33:39 [CLIENT] [INFO] [CHAT] Player359 fell out of the world
+2014-02-23 02:33:39 [CLIENT] [INFO] [CHAT] Ouch! That looked like it hurt
+2014-02-23 02:35:04 [CLIENT] [INFO] Stopping!
+2014-02-23 02:35:44 [CLIENT] [INFO] Setting user: Player125
+2014-02-23 02:35:45 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-02-23 02:35:46 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-02-23 02:35:51 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-23 02:35:52 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-23 02:35:53 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-23 02:35:53 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-23 02:35:58 [CLIENT] [SEVERE] Realms: Server not available!
+2014-02-23 02:37:55 [CLIENT] [INFO] [CHAT] /gamemode, /give, /gamerule
+2014-02-23 02:37:57 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2014-02-23 02:38:11 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2014-02-23 02:39:29 [CLIENT] [INFO] Stopping!
+2014-02-23 02:40:21 [CLIENT] [INFO] Setting user: Player93
+2014-02-23 02:40:22 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-02-23 02:40:23 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-02-23 02:40:27 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-23 02:40:28 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-23 02:40:29 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-23 02:40:30 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-23 02:40:34 [CLIENT] [SEVERE] Realms: Server not available!
+2014-02-23 02:41:14 [CLIENT] [INFO] Stopping!
+2014-02-23 17:02:37 [CLIENT] [INFO] Setting user: Player468
+2014-02-23 17:02:38 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-02-23 17:02:39 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-02-23 17:02:45 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-23 17:02:46 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-23 17:02:46 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-23 17:02:46 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-23 17:02:50 [CLIENT] [SEVERE] Realms: Server not available!
+2014-02-23 17:03:50 [CLIENT] [INFO] [CHAT] Saved screenshot as 2014-02-23_17.03.50.png
+2014-02-23 17:03:55 [CLIENT] [INFO] [CHAT] Saved screenshot as 2014-02-23_17.03.55.png
+2014-02-23 17:09:49 [CLIENT] [INFO] Stopping!
+2014-02-23 17:30:19 [CLIENT] [INFO] Setting user: Player484
+2014-02-23 17:30:20 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-02-23 17:30:20 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-02-23 17:30:24 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-23 17:30:25 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-23 17:30:25 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-23 17:30:25 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-23 17:30:29 [CLIENT] [SEVERE] Realms: Server not available!
+2014-02-23 17:32:52 [CLIENT] [INFO] Stopping!
+2014-02-23 17:50:35 [CLIENT] [INFO] Setting user: Player218
+2014-02-23 17:50:35 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-02-23 17:50:36 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-02-23 17:50:39 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-23 17:50:40 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_502_null.png
+2014-02-23 17:50:40 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-23 17:50:41 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-23 17:50:41 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_502_null.png
+2014-02-23 17:50:41 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-23 17:50:45 [CLIENT] [SEVERE] Realms: Server not available!
+2014-02-23 17:51:14 [CLIENT] [INFO] Stopping!
+2014-02-23 17:54:16 [CLIENT] [INFO] Setting user: Player359
+2014-02-23 17:54:17 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-02-23 17:54:17 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-02-23 17:54:20 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-23 17:54:21 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-23 17:54:21 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_502_genericOre.png
+2014-02-23 17:54:22 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-23 17:54:22 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-23 17:54:22 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_502_genericOre.png
+2014-02-23 17:54:26 [CLIENT] [SEVERE] Realms: Server not available!
+2014-02-23 17:55:02 [CLIENT] [INFO] Stopping!
+2014-02-23 17:57:48 [CLIENT] [INFO] Setting user: Player703
+2014-02-23 17:57:49 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-02-23 17:57:49 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-02-23 17:57:52 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-23 17:57:53 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-23 17:57:53 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_502_genericOre.png
+2014-02-23 17:57:54 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-23 17:57:54 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-23 17:57:54 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_502_genericOre.png
+2014-02-23 17:57:55 [CLIENT] [SEVERE] Realms: Server not available!
+2014-02-23 17:58:17 [CLIENT] [INFO] Stopping!
+2014-02-23 17:59:32 [CLIENT] [INFO] Setting user: Player890
+2014-02-23 17:59:33 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-02-23 17:59:33 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-02-23 17:59:37 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-23 17:59:37 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_502_genericLeaf.png
+2014-02-23 17:59:37 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-23 17:59:38 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-23 17:59:38 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_502_genericLeaf.png
+2014-02-23 17:59:38 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-23 17:59:42 [CLIENT] [SEVERE] Realms: Server not available!
+2014-02-23 17:59:46 [CLIENT] [INFO] [CHAT] Saved screenshot as 2014-02-23_17.59.46.png
+2014-02-23 17:59:58 [CLIENT] [INFO] Stopping!
+2014-02-23 23:15:57 [CLIENT] [INFO] Setting user: Player31
+2014-02-23 23:15:59 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-02-23 23:15:59 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-02-23 23:16:05 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-23 23:16:06 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_502_genericLeaf.png
+2014-02-23 23:16:06 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-23 23:16:07 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-23 23:16:08 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_502_genericLeaf.png
+2014-02-23 23:16:08 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-23 23:16:14 [CLIENT] [SEVERE] Realms: Server not available!
+2014-02-23 23:16:52 [CLIENT] [WARNING] Memory connection overburdened; after processing 2500 packets, we still have 709 to go!
+2014-02-23 23:18:21 [CLIENT] [INFO] [CHAT] /gamemode, /give, /gamerule
+2014-02-23 23:18:23 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2014-02-23 23:18:29 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2014-02-23 23:18:44 [CLIENT] [INFO] [CHAT] '1\' is not a valid number
+2014-02-23 23:18:46 [CLIENT] [INFO] [CHAT] '1\' is not a valid number
+2014-02-23 23:18:50 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2014-02-23 23:22:17 [CLIENT] [INFO] Stopping!
+2014-02-26 22:22:24 [CLIENT] [INFO] Setting user: Player984
+2014-02-26 22:22:29 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-02-26 22:22:30 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-02-26 22:24:58 [CLIENT] [INFO] Setting user: Player937
+2014-02-26 22:25:00 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-02-26 22:25:01 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-02-26 22:25:13 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-26 22:25:16 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_502_genericLeaf.png
+2014-02-26 22:25:16 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-26 22:25:18 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-26 22:25:18 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_502_genericLeaf.png
+2014-02-26 22:25:18 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-02-26 22:25:26 [CLIENT] [SEVERE] Realms: Server not available!
+2014-02-26 22:25:52 [CLIENT] [INFO] Stopping!
+2014-02-27 11:19:52 [CLIENT] [INFO] Setting user: Player937
+2014-02-27 11:19:59 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-02-27 11:20:01 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-02-27 11:20:28 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-27 11:20:30 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_502_genericLeaf.png
+2014-02-27 11:20:32 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-27 11:20:32 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_502_genericLeaf.png
+2014-02-27 11:20:41 [CLIENT] [SEVERE] Realms: Server not available!
+2014-02-27 11:30:04 [CLIENT] [INFO] Stopping!
+2014-02-27 11:38:21 [CLIENT] [INFO] Setting user: Player750
+2014-02-27 11:38:23 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-02-27 11:38:24 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-02-27 11:38:33 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-27 11:38:36 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-27 11:38:41 [CLIENT] [SEVERE] Realms: Server not available!
+2014-02-27 11:40:57 [CLIENT] [INFO] Stopping!
+2014-02-27 11:41:52 [CLIENT] [INFO] Setting user: Player906
+2014-02-27 11:41:54 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-02-27 11:41:55 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-02-27 11:42:03 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-27 11:42:07 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-27 11:42:09 [CLIENT] [SEVERE] Realms: Server not available!
+2014-02-27 11:42:55 [CLIENT] [INFO] [CHAT] /tp, /time, /tell, /toggledownfall, /testfor
+2014-02-27 11:42:55 [CLIENT] [INFO] [CHAT] /tp, /time, /tell, /toggledownfall, /testfor
+2014-02-27 11:44:43 [CLIENT] [INFO] [CHAT] /tp, /time, /tell, /toggledownfall, /testfor
+2014-02-27 11:44:44 [CLIENT] [INFO] [CHAT] /tp, /time, /tell, /toggledownfall, /testfor
+2014-02-27 11:44:45 [CLIENT] [INFO] [CHAT] set, add
+2014-02-27 11:44:46 [CLIENT] [INFO] [CHAT] day, night
+2014-02-27 11:44:46 [CLIENT] [INFO] [CHAT] day, night
+2014-02-27 11:44:47 [CLIENT] [INFO] [CHAT] Set the time to 12500
+2014-02-27 11:46:55 [CLIENT] [INFO] Stopping!
+2014-02-27 11:49:15 [CLIENT] [INFO] Setting user: Player515
+2014-02-27 11:49:18 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-02-27 11:49:19 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-02-27 11:49:27 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-27 11:49:31 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-27 11:49:37 [CLIENT] [SEVERE] Realms: Server not available!
+2014-02-27 11:50:38 [CLIENT] [INFO] [CHAT] /gamemode, /give, /gamerule
+2014-02-27 11:50:41 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2014-02-27 11:50:57 [CLIENT] [INFO] Stopping!
+2014-02-27 15:34:04 [CLIENT] [INFO] Setting user: Player406
+2014-02-27 15:34:08 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-02-27 15:34:09 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-02-27 15:34:23 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-27 15:34:26 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-27 15:34:32 [CLIENT] [SEVERE] Realms: Server not available!
+2014-02-27 15:34:51 [CLIENT] [INFO] Stopping!
+2014-02-27 15:35:30 [CLIENT] [INFO] Setting user: Player937
+2014-02-27 15:35:32 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-02-27 15:35:33 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-02-27 15:35:41 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-27 15:35:44 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-02-27 15:35:47 [CLIENT] [SEVERE] Realms: Server not available!
+2014-02-27 15:47:37 [CLIENT] [INFO] [CHAT] /gamemode, /give, /gamerule
+2014-02-27 15:47:39 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2014-02-27 15:48:30 [CLIENT] [INFO] Stopping!
+2014-03-08 15:59:12 [CLIENT] [INFO] Setting user: Player500
+2014-03-08 15:59:14 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-08 15:59:15 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-08 15:59:23 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-08 15:59:25 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-03-08 15:59:26 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-08 15:59:27 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-03-08 15:59:32 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-08 16:01:12 [CLIENT] [INFO] Stopping!
+2014-03-08 16:05:10 [CLIENT] [INFO] Setting user: Player890
+2014-03-08 16:05:12 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-08 16:05:13 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-08 16:05:20 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-08 16:05:22 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-03-08 16:05:23 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-08 16:05:24 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-03-08 16:05:29 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-08 16:05:52 [CLIENT] [INFO] Stopping!
+2014-03-08 18:48:49 [CLIENT] [INFO] Setting user: Player843
+2014-03-08 18:48:52 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-08 18:48:54 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-08 18:49:08 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-08 18:49:10 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-03-08 18:49:11 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-08 18:49:12 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-03-08 18:49:17 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-08 19:24:26 [CLIENT] [INFO] Setting user: Player343
+2014-03-08 19:24:28 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-08 19:24:29 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-08 19:24:37 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-08 19:24:38 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-03-08 19:24:40 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-08 19:24:40 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-03-08 19:24:45 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-08 19:29:57 [CLIENT] [INFO] Setting user: Player218
+2014-03-08 19:29:59 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-08 19:30:00 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-08 19:30:10 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-08 19:30:12 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-03-08 19:30:14 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-08 19:30:14 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-03-08 19:30:19 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-08 19:35:03 [CLIENT] [INFO] Setting user: Player15
+2014-03-08 19:35:05 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-08 19:35:06 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-08 19:35:14 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-08 19:35:15 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-03-08 19:35:17 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-08 19:35:17 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-03-08 19:35:22 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-08 19:36:15 [CLIENT] [WARNING] Memory connection overburdened; after processing 2500 packets, we still have 732 to go!
+2014-03-08 19:37:22 [CLIENT] [INFO] Stopping!
+2014-03-08 19:57:19 [CLIENT] [INFO] Setting user: Player813
+2014-03-08 19:57:21 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-08 19:57:22 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-08 19:57:29 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-08 19:57:31 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-03-08 19:57:33 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-08 19:57:33 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-03-08 19:57:38 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-08 19:58:26 [CLIENT] [INFO] Stopping!
+2014-03-08 20:04:16 [CLIENT] [INFO] Setting user: Player203
+2014-03-08 20:04:18 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-08 20:04:19 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-08 20:04:27 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-08 20:04:29 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-03-08 20:04:30 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-08 20:04:31 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-03-08 20:04:36 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-08 20:49:18 [CLIENT] [INFO] Stopping!
+2014-03-08 20:52:09 [CLIENT] [INFO] Setting user: Player156
+2014-03-08 20:52:11 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-08 20:52:12 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-08 20:52:19 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-08 20:52:21 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-03-08 20:52:22 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-08 20:52:23 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-03-08 20:52:28 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-08 20:52:57 [CLIENT] [INFO] [CHAT] /gamemode, /give, /gamerule
+2014-03-08 20:52:59 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2014-03-08 20:53:14 [CLIENT] [INFO] Stopping!
+2014-03-08 21:13:07 [CLIENT] [INFO] Setting user: Player437
+2014-03-08 21:13:09 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-08 21:13:10 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-08 21:13:17 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-08 21:13:19 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-03-08 21:13:21 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-08 21:13:21 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-03-08 21:13:26 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-08 21:14:02 [CLIENT] [INFO] Stopping!
+2014-03-08 21:18:02 [CLIENT] [INFO] Setting user: Player921
+2014-03-08 21:18:04 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-08 21:18:05 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-08 21:18:12 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-08 21:18:14 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-03-08 21:18:15 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-08 21:18:16 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-03-08 21:18:21 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-08 21:19:56 [CLIENT] [INFO] Stopping!
+2014-03-19 20:39:28 [CLIENT] [INFO] Setting user: Player437
+2014-03-19 20:39:29 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-19 20:39:29 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-19 20:39:33 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-19 20:39:34 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-03-19 20:39:34 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-19 20:39:35 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-03-19 20:39:38 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-19 20:42:15 [CLIENT] [INFO] Stopping!
+2014-03-19 21:43:38 [CLIENT] [INFO] Setting user: Player921
+2014-03-19 21:43:39 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-19 21:43:40 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-19 21:43:43 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-19 21:43:44 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-03-19 21:43:44 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-19 21:43:44 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-03-19 21:43:45 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-19 21:49:48 [CLIENT] [INFO] Stopping!
+2014-03-19 21:59:08 [CLIENT] [INFO] Setting user: Player500
+2014-03-19 21:59:09 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-19 21:59:09 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-19 21:59:12 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-19 21:59:13 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-03-19 21:59:14 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-19 21:59:14 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-03-19 21:59:18 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-19 22:00:04 [CLIENT] [INFO] [CHAT] /gamemode, /give, /gamerule
+2014-03-19 22:00:07 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2014-03-19 22:00:17 [CLIENT] [INFO] [CHAT] /gamemode, /give, /gamerule
+2014-03-19 22:00:18 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2014-03-19 22:02:12 [CLIENT] [INFO] Stopping!
+2014-03-19 22:04:02 [CLIENT] [INFO] Setting user: Player0
+2014-03-19 22:04:03 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-19 22:04:04 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-19 22:04:07 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-19 22:04:08 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-03-19 22:04:08 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-19 22:04:09 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-03-19 22:04:13 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-19 22:04:36 [CLIENT] [INFO] [CHAT] /gamemode, /give, /gamerule
+2014-03-19 22:04:38 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2014-03-19 22:04:45 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2014-03-19 22:04:47 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2014-03-19 22:05:06 [CLIENT] [INFO] Stopping!
+2014-03-19 22:06:39 [CLIENT] [INFO] Setting user: Player359
+2014-03-19 22:06:40 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-19 22:06:40 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-19 22:06:43 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-19 22:06:44 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-03-19 22:06:45 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-19 22:06:45 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-03-19 22:06:49 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-19 22:07:08 [CLIENT] [INFO] Stopping!
+2014-03-19 22:10:37 [CLIENT] [INFO] Setting user: Player125
+2014-03-19 22:10:38 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-19 22:10:39 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-19 22:10:42 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-19 22:10:43 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-03-19 22:10:43 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-19 22:10:44 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-03-19 22:10:45 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-19 22:10:45 [CLIENT] [INFO] Stopping!
+2014-03-19 22:13:51 [CLIENT] [INFO] Setting user: Player187
+2014-03-19 22:13:52 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-19 22:13:53 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-19 22:13:56 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-19 22:13:57 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-03-19 22:13:58 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-19 22:13:58 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-03-19 22:14:02 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-19 22:14:13 [CLIENT] [INFO] Stopping!
+2014-03-19 22:24:04 [CLIENT] [INFO] Setting user: Player140
+2014-03-19 22:24:05 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-19 22:24:06 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-19 22:24:09 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-19 22:24:09 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-03-19 22:24:10 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-19 22:24:10 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-03-19 22:24:14 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-19 22:29:42 [CLIENT] [INFO] Stopping!
+2014-03-19 22:36:06 [CLIENT] [INFO] Setting user: Player640
+2014-03-19 22:36:07 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-19 22:36:07 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-19 22:36:11 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-19 22:36:12 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-03-19 22:36:12 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-19 22:36:13 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-03-19 22:36:17 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-19 22:38:13 [CLIENT] [INFO] [CHAT] /gamemode, /give, /gamerule
+2014-03-19 22:38:33 [CLIENT] [INFO] Stopping!
+2014-03-19 22:39:34 [CLIENT] [INFO] Setting user: Player750
+2014-03-19 22:39:35 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-19 22:39:35 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-19 22:39:39 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-19 22:39:40 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-03-19 22:39:40 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-19 22:39:41 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-03-19 22:39:44 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-19 22:39:49 [CLIENT] [INFO] Stopping!
+2014-03-19 22:40:05 [CLIENT] [INFO] Setting user: Player406
+2014-03-19 22:40:06 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-19 22:40:06 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-19 22:40:10 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-19 22:40:10 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-03-19 22:40:11 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-19 22:40:11 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-03-19 22:40:12 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-19 22:42:46 [CLIENT] [INFO] Stopping!
+2014-03-19 23:20:25 [CLIENT] [INFO] Setting user: Player343
+2014-03-19 23:20:26 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-19 23:20:26 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-19 23:20:29 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-19 23:20:30 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-03-19 23:20:31 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-19 23:20:31 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_500_genericDirt.png
+2014-03-19 23:20:35 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-19 23:21:20 [CLIENT] [INFO] Stopping!
+2014-03-20 01:48:43 [CLIENT] [INFO] Setting user: Player593
+2014-03-20 01:48:44 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-20 01:48:44 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-20 01:48:48 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-20 01:48:49 [CLIENT] [SEVERE] Unable to parse animation metadata from basic:textures/blocks/generic_dirt_top.png: broken aspect ratio and not an animation
+2014-03-20 01:48:49 [CLIENT] [SEVERE] Unable to parse animation metadata from basic:textures/blocks/generic_dirt_bottom.png: broken aspect ratio and not an animation
+2014-03-20 01:48:49 [CLIENT] [SEVERE] Unable to parse animation metadata from basic:textures/blocks/generic_dirt_side.png: broken aspect ratio and not an animation
+2014-03-20 01:48:50 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-20 01:48:50 [CLIENT] [SEVERE] Unable to parse animation metadata from basic:textures/blocks/generic_dirt_top.png: broken aspect ratio and not an animation
+2014-03-20 01:48:50 [CLIENT] [SEVERE] Unable to parse animation metadata from basic:textures/blocks/generic_dirt_bottom.png: broken aspect ratio and not an animation
+2014-03-20 01:48:50 [CLIENT] [SEVERE] Unable to parse animation metadata from basic:textures/blocks/generic_dirt_side.png: broken aspect ratio and not an animation
+2014-03-20 01:48:54 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-20 01:49:03 [CLIENT] [INFO] Stopping!
+2014-03-20 01:51:54 [CLIENT] [INFO] Setting user: Player171
+2014-03-20 01:51:55 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-20 01:51:56 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-20 01:51:59 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-20 01:52:00 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-20 01:52:05 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-20 01:52:29 [CLIENT] [INFO] Stopping!
+2014-03-20 01:57:00 [CLIENT] [INFO] Setting user: Player250
+2014-03-20 01:57:00 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-20 01:57:01 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-20 01:57:04 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-20 01:57:05 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-20 01:57:06 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-20 01:57:40 [CLIENT] [INFO] Stopping!
+2014-03-20 09:35:00 [CLIENT] [INFO] Setting user: Player843
+2014-03-20 09:35:02 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-20 09:35:03 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-20 09:35:09 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-20 09:35:11 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-20 09:35:16 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-20 09:36:23 [CLIENT] [INFO] [CHAT] /gamemode, /give, /gamerule
+2014-03-20 09:36:26 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2014-03-20 09:36:36 [CLIENT] [INFO] Stopping!
+2014-03-20 11:44:11 [CLIENT] [INFO] Setting user: Player468
+2014-03-20 11:44:12 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-20 11:44:12 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-20 11:44:15 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-20 11:44:17 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-20 11:44:22 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-20 11:44:33 [CLIENT] [INFO] Stopping!
+2014-03-20 11:44:43 [CLIENT] [INFO] Setting user: Player609
+2014-03-20 11:44:44 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-20 11:44:44 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-20 11:44:47 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-20 11:44:49 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-20 11:44:50 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-20 11:45:42 [CLIENT] [INFO] Stopping!
+2014-03-20 15:17:30 [CLIENT] [INFO] Setting user: Player703
+2014-03-20 15:17:31 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-20 15:17:31 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-20 15:17:34 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-20 15:17:36 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-20 15:17:40 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-20 15:17:59 [CLIENT] [INFO] Stopping!
+2014-03-20 15:42:41 [CLIENT] [INFO] Setting user: Player953
+2014-03-20 15:42:43 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-20 15:42:44 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-20 15:42:50 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-20 15:42:51 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-20 15:42:55 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-20 15:43:23 [CLIENT] [INFO] [CHAT] /gamemode, /give, /gamerule
+2014-03-20 15:43:25 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2014-03-20 15:49:56 [CLIENT] [INFO] [CHAT] Seed: 270449641214140321
+2014-03-20 15:52:51 [CLIENT] [INFO] Stopping!
+2014-03-20 16:09:56 [CLIENT] [INFO] Setting user: Player593
+2014-03-20 16:09:57 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-20 16:09:57 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-20 16:10:00 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-20 16:10:02 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-20 16:10:06 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-20 16:22:28 [CLIENT] [INFO] [CHAT] Seed: 270449641214140321
+2014-03-20 16:42:45 [CLIENT] [INFO] Stopping!
+2014-03-20 16:42:49 [CLIENT] [INFO] Setting user: Player484
+2014-03-20 16:42:50 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-20 16:42:50 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-20 16:42:53 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-20 16:42:55 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-20 16:42:56 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-20 16:46:23 [CLIENT] [INFO] Stopping!
+2014-03-20 22:59:15 [CLIENT] [INFO] Setting user: Player171
+2014-03-20 22:59:17 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-20 22:59:17 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-20 22:59:20 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-20 22:59:21 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-20 22:59:25 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-20 23:00:04 [CLIENT] [INFO] [CHAT] /tp, /time, /tell, /toggledownfall, /testfor
+2014-03-20 23:00:05 [CLIENT] [INFO] [CHAT] /tp, /time, /tell, /toggledownfall, /testfor
+2014-03-20 23:00:05 [CLIENT] [INFO] [CHAT] /tp, /time, /tell, /toggledownfall, /testfor
+2014-03-20 23:00:06 [CLIENT] [INFO] [CHAT] /tp, /time, /tell, /toggledownfall, /testfor
+2014-03-20 23:00:07 [CLIENT] [INFO] [CHAT] Toggled downfall
+2014-03-20 23:00:21 [CLIENT] [INFO] [CHAT] Toggled downfall
+2014-03-20 23:00:35 [CLIENT] [INFO] Stopping!
+2014-03-20 23:04:02 [CLIENT] [INFO] Setting user: Player921
+2014-03-20 23:04:03 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-20 23:04:04 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-20 23:04:06 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-20 23:04:08 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-20 23:04:14 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-20 23:05:07 [CLIENT] [INFO] [CHAT] Toggled downfall
+2014-03-20 23:06:28 [CLIENT] [INFO] Stopping!
+2014-03-20 23:08:45 [CLIENT] [INFO] Setting user: Player937
+2014-03-20 23:08:46 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-20 23:08:47 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-20 23:08:50 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-20 23:08:52 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-20 23:08:58 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-20 23:09:11 [CLIENT] [INFO] Stopping!
+2014-03-20 23:09:26 [CLIENT] [INFO] Setting user: Player578
+2014-03-20 23:09:27 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-20 23:09:27 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-20 23:09:30 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-20 23:09:32 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-20 23:09:37 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-20 23:10:10 [CLIENT] [INFO] Stopping!
+2014-03-20 23:12:02 [CLIENT] [INFO] Setting user: Player734
+2014-03-20 23:12:03 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-20 23:12:03 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-20 23:12:07 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-20 23:12:08 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-20 23:12:14 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-20 23:13:16 [CLIENT] [INFO] Stopping!
+2014-03-20 23:14:05 [CLIENT] [INFO] Setting user: Player812
+2014-03-20 23:14:06 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-20 23:14:06 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-20 23:14:10 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-20 23:14:11 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-20 23:14:17 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-20 23:14:49 [CLIENT] [INFO] Stopping!
+2014-03-20 23:15:00 [CLIENT] [INFO] Setting user: Player484
+2014-03-20 23:15:01 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-20 23:15:01 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-20 23:15:04 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-20 23:15:06 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-20 23:15:12 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-20 23:15:55 [CLIENT] [INFO] Stopping!
+2014-03-21 01:01:04 [CLIENT] [INFO] Setting user: Player921
+2014-03-21 01:01:06 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-21 01:01:06 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-21 01:01:13 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-21 01:01:15 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-21 01:01:16 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-21 01:01:36 [CLIENT] [INFO] [CHAT] Toggled downfall
+2014-03-21 01:02:17 [CLIENT] [INFO] [CHAT] /gamemode, /give, /gamerule
+2014-03-21 01:02:18 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2014-03-21 01:02:38 [CLIENT] [INFO] Stopping!
+2014-03-21 01:07:36 [CLIENT] [INFO] Setting user: Player953
+2014-03-21 01:07:37 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-21 01:07:38 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-21 01:07:41 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-21 01:07:42 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-21 01:07:43 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-21 01:07:52 [CLIENT] [INFO] [CHAT] /gamemode, /give, /gamerule
+2014-03-21 01:07:54 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2014-03-21 01:09:07 [CLIENT] [INFO] Stopping!
+2014-03-21 01:09:23 [CLIENT] [INFO] Setting user: Player422
+2014-03-21 01:09:24 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-21 01:09:24 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-21 01:09:27 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-21 01:09:29 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-21 01:09:30 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-21 01:09:39 [CLIENT] [INFO] [CHAT] /gamemode, /give, /gamerule
+2014-03-21 01:09:41 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2014-03-21 01:10:05 [CLIENT] [INFO] Stopping!
+2014-03-21 01:12:18 [CLIENT] [INFO] Setting user: Player500
+2014-03-21 01:12:19 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-21 01:12:19 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-21 01:12:23 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-21 01:12:24 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-21 01:12:25 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-21 01:12:47 [CLIENT] [INFO] Stopping!
+2014-03-21 01:29:59 [CLIENT] [INFO] Setting user: Player640
+2014-03-21 01:30:00 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-21 01:30:00 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-21 01:30:03 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-21 01:30:05 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-21 01:30:06 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-21 01:30:22 [CLIENT] [INFO] Stopping!
+2014-03-21 01:34:59 [CLIENT] [INFO] Setting user: Player968
+2014-03-21 01:35:00 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-21 01:35:01 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-21 01:35:04 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-21 01:35:05 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-21 01:35:06 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-21 01:35:23 [CLIENT] [INFO] Stopping!
+2014-03-21 01:35:43 [CLIENT] [INFO] Setting user: Player578
+2014-03-21 01:35:44 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-21 01:35:44 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-21 01:35:48 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-21 01:35:49 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-21 01:35:50 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-21 01:36:05 [CLIENT] [INFO] Stopping!
+2014-03-21 01:46:52 [CLIENT] [INFO] Setting user: Player390
+2014-03-21 01:46:53 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-21 01:46:53 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-21 01:46:56 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-21 01:46:58 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-21 01:46:59 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-21 01:47:12 [CLIENT] [INFO] Stopping!
+2014-03-21 01:49:31 [CLIENT] [INFO] Setting user: Player390
+2014-03-21 01:49:32 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-21 01:49:32 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-21 01:49:35 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-21 01:49:37 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-21 01:49:38 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-21 01:50:08 [CLIENT] [INFO] Stopping!
+2014-03-23 01:45:01 [CLIENT] [INFO] Setting user: Player343
+2014-03-23 01:45:02 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-23 01:45:02 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-23 01:45:07 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-23 01:45:09 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Basic
+2014-03-23 01:45:13 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-23 01:46:46 [CLIENT] [INFO] [CHAT] /gamemode, /give, /gamerule
+2014-03-23 01:46:50 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2014-03-23 01:46:54 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2014-03-23 01:47:34 [CLIENT] [INFO] [CHAT] Unknown command. Try /help for a list of commands
+2014-03-23 01:47:57 [CLIENT] [INFO] [CHAT] /gamemode, /give, /gamerule
+2014-03-23 01:47:59 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2014-03-23 01:48:41 [CLIENT] [INFO] [CHAT] set, add
+2014-03-23 01:48:41 [CLIENT] [INFO] [CHAT] set, add
+2014-03-23 01:48:42 [CLIENT] [INFO] [CHAT] set, add
+2014-03-23 01:48:43 [CLIENT] [INFO] [CHAT] day, night
+2014-03-23 01:48:43 [CLIENT] [INFO] [CHAT] day, night
+2014-03-23 01:48:44 [CLIENT] [INFO] [CHAT] Set the time to 12500
+2014-03-23 01:50:05 [CLIENT] [INFO] [CHAT] /gamemode, /give, /gamerule
+2014-03-23 01:50:07 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2014-03-23 01:50:25 [CLIENT] [INFO] [CHAT] /gamemode, /give, /gamerule
+2014-03-23 01:50:28 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2014-03-23 01:52:31 [CLIENT] [INFO] [CHAT] /gamemode, /give, /gamerule
+2014-03-23 01:52:32 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2014-03-23 01:55:14 [CLIENT] [INFO] Stopping!
+2014-03-23 18:28:12 [CLIENT] [INFO] Setting user: Player250
+2014-03-23 18:28:15 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-23 18:28:15 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-23 18:28:24 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DefaultOverHaul
+2014-03-23 18:28:25 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DefaultOverHaul
+2014-03-23 18:28:29 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-23 18:29:38 [CLIENT] [INFO] Stopping!
+2014-03-23 18:41:01 [CLIENT] [INFO] Setting user: Player625
+2014-03-23 18:41:04 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-23 18:41:05 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-23 18:41:14 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DefaultOverHaul
+2014-03-23 18:41:15 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DefaultOverHaul
+2014-03-23 18:41:16 [CLIENT] [INFO] Stopping!
+2014-03-23 18:42:05 [CLIENT] [INFO] Setting user: Player921
+2014-03-23 18:42:06 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-23 18:42:07 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-23 18:42:10 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DefaultOverHaul
+2014-03-23 18:42:11 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DefaultOverHaul
+2014-03-23 18:42:12 [CLIENT] [INFO] Stopping!
+2014-03-23 19:08:37 [CLIENT] [INFO] Setting user: Player296
+2014-03-23 19:08:38 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-23 19:08:38 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-23 19:08:41 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DefaultOverHaul
+2014-03-23 19:08:43 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DefaultOverHaul
+2014-03-23 19:08:47 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-23 19:09:10 [CLIENT] [INFO] Stopping!
+2014-03-23 19:46:21 [CLIENT] [INFO] Setting user: Player906
+2014-03-23 19:46:22 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-23 19:46:23 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-23 19:46:26 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DefaultOverHaul
+2014-03-23 19:46:27 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DefaultOverHaul
+2014-03-23 19:46:32 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-23 19:46:52 [CLIENT] [INFO] Stopping!
+2014-03-23 19:51:56 [CLIENT] [INFO] Setting user: Player718
+2014-03-23 19:51:57 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-23 19:51:58 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-23 19:52:01 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DefaultOverHaul
+2014-03-23 19:52:02 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DefaultOverHaul
+2014-03-23 19:52:06 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-23 19:52:19 [CLIENT] [INFO] Stopping!
+2014-03-24 00:00:58 [CLIENT] [INFO] Setting user: Player390
+2014-03-24 00:01:04 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-24 00:01:06 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-24 00:01:18 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DefaultOverHaul
+2014-03-24 00:01:20 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DefaultOverHaul
+2014-03-24 00:01:24 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-24 00:01:56 [CLIENT] [INFO] Stopping!
+2014-03-24 00:08:50 [CLIENT] [INFO] Setting user: Player234
+2014-03-24 00:08:51 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-24 00:08:52 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-24 00:08:55 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DefaultOverHaul
+2014-03-24 00:08:56 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DefaultOverHaul
+2014-03-24 00:09:00 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-24 00:09:59 [CLIENT] [INFO] Stopping!
+2014-03-24 00:10:05 [CLIENT] [INFO] Setting user: Player968
+2014-03-24 00:10:06 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-24 00:10:07 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-24 00:10:10 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DefaultOverHaul
+2014-03-24 00:10:11 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DefaultOverHaul
+2014-03-24 00:10:15 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-24 00:10:51 [CLIENT] [INFO] Stopping!
+2014-03-24 00:18:29 [CLIENT] [INFO] Setting user: Player531
+2014-03-24 00:18:30 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-24 00:18:30 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-24 00:18:33 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DefaultOverHaul
+2014-03-24 00:18:35 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DefaultOverHaul
+2014-03-24 00:18:39 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-24 00:18:50 [CLIENT] [INFO] Stopping!
+2014-03-24 00:19:58 [CLIENT] [INFO] Setting user: Player875
+2014-03-24 00:19:59 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-24 00:19:59 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-24 00:20:03 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DefaultOverHaul
+2014-03-24 00:20:04 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DefaultOverHaul
+2014-03-24 00:20:05 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-24 00:20:20 [CLIENT] [INFO] Stopping!
+2014-03-24 00:21:30 [CLIENT] [INFO] Setting user: Player859
+2014-03-24 00:21:31 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-24 00:21:32 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-24 00:21:35 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DefaultOverHaul
+2014-03-24 00:21:36 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DefaultOverHaul
+2014-03-24 00:21:37 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-24 00:21:55 [CLIENT] [INFO] Stopping!
+2014-03-24 00:34:07 [CLIENT] [INFO] Setting user: Player875
+2014-03-24 00:34:08 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-24 00:34:09 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-24 00:34:12 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DefaultOverHaul
+2014-03-24 00:34:13 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DefaultOverHaul
+2014-03-24 00:34:17 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-24 00:34:50 [CLIENT] [INFO] Stopping!
+2014-03-24 00:40:22 [CLIENT] [INFO] Setting user: Player718
+2014-03-24 00:40:23 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-24 00:40:23 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-24 00:40:27 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DefaultOverHaul
+2014-03-24 00:40:28 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DefaultOverHaul
+2014-03-24 00:40:32 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-24 00:40:45 [CLIENT] [INFO] Stopping!
+2014-03-24 00:41:21 [CLIENT] [INFO] Setting user: Player609
+2014-03-24 00:41:22 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-24 00:41:22 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-24 00:41:25 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DefaultOverHaul
+2014-03-24 00:41:27 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DefaultOverHaul
+2014-03-24 00:41:28 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-24 00:41:42 [CLIENT] [INFO] Stopping!
+2014-03-24 00:43:15 [CLIENT] [INFO] Setting user: Player640
+2014-03-24 00:43:16 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-24 00:43:16 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-24 00:43:19 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DefaultOverHaul
+2014-03-24 00:43:21 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DefaultOverHaul
+2014-03-24 00:43:25 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-24 00:43:38 [CLIENT] [INFO] Stopping!
+2014-03-24 00:47:14 [CLIENT] [INFO] Setting user: Player906
+2014-03-24 00:47:15 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-24 00:47:16 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-24 00:47:19 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DefaultOverHaul
+2014-03-24 00:47:20 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DefaultOverHaul
+2014-03-24 00:47:21 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-24 00:48:05 [CLIENT] [INFO] Stopping!
+2014-03-24 11:44:27 [CLIENT] [INFO] Setting user: Player453
+2014-03-24 11:44:28 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-24 11:44:28 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-24 11:44:32 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DefaultOverHaul
+2014-03-24 11:44:33 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DefaultOverHaul
+2014-03-24 11:44:39 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-24 11:45:59 [CLIENT] [INFO] Stopping!
+2014-03-24 16:35:35 [CLIENT] [INFO] Setting user: Player515
+2014-03-24 16:35:37 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-24 16:35:37 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-24 16:35:44 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DefaultOverHaul
+2014-03-24 16:35:45 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DefaultOverHaul
+2014-03-24 16:35:51 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-24 16:36:35 [CLIENT] [INFO] Stopping!
+2014-03-24 16:40:08 [CLIENT] [INFO] Setting user: Player62
+2014-03-24 16:40:09 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-24 16:40:10 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-24 16:40:13 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DefaultOverHaul
+2014-03-24 16:40:14 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DefaultOverHaul
+2014-03-24 16:40:15 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-24 16:40:45 [CLIENT] [INFO] Stopping!
+2014-03-24 16:43:31 [CLIENT] [INFO] Setting user: Player968
+2014-03-24 16:43:32 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-24 16:43:33 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-24 16:43:36 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DefaultOverHaul
+2014-03-24 16:43:38 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DefaultOverHaul
+2014-03-24 16:43:39 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-24 16:43:58 [CLIENT] [INFO] Stopping!
+2014-03-24 16:51:22 [CLIENT] [INFO] Setting user: Player562
+2014-03-24 16:51:23 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-24 16:51:23 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-24 16:51:27 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DefaultOverHaul
+2014-03-24 16:51:28 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DefaultOverHaul
+2014-03-24 16:51:32 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-24 16:52:16 [CLIENT] [INFO] Stopping!
+2014-03-24 17:03:24 [CLIENT] [INFO] Setting user: Player109
+2014-03-24 17:03:25 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-24 17:03:26 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-24 17:03:29 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DefaultOverHaul
+2014-03-24 17:03:31 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DefaultOverHaul
+2014-03-24 17:03:35 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-24 17:04:07 [CLIENT] [INFO] Stopping!
+2014-03-24 17:06:20 [CLIENT] [INFO] Setting user: Player0
+2014-03-24 17:06:21 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-24 17:06:22 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-24 17:06:25 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DefaultOverHaul
+2014-03-24 17:06:26 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DefaultOverHaul
+2014-03-24 17:06:28 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-24 17:06:54 [CLIENT] [INFO] Stopping!
+2014-03-24 17:08:44 [CLIENT] [INFO] Setting user: Player718
+2014-03-24 17:08:45 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-24 17:08:45 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-24 17:08:49 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DefaultOverHaul
+2014-03-24 17:09:00 [CLIENT] [INFO] Setting user: Player546
+2014-03-24 17:09:01 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-24 17:09:01 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-24 17:09:05 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DefaultOverHaul
+2014-03-24 17:09:06 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DefaultOverHaul
+2014-03-24 17:09:07 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-24 17:09:58 [CLIENT] [INFO] [CHAT] /gamemode, /give, /gamerule
+2014-03-24 17:09:59 [CLIENT] [INFO] [CHAT] /gamemode, /give, /gamerule
+2014-03-24 17:10:07 [CLIENT] [INFO] [CHAT] There is no such item with ID 501
+2014-03-24 17:10:20 [CLIENT] [INFO] [CHAT] Given Dirt Double Slab (ID 500) * 1 to Player546
+2014-03-24 17:10:26 [CLIENT] [INFO] [CHAT] Given Dirt Double Slab (ID 500) * 1 to Player546
+2014-03-24 17:10:33 [CLIENT] [INFO] [CHAT] Given Dirt Double Slab (ID 500) * 1 to Player546
+2014-03-24 17:11:54 [CLIENT] [INFO] Stopping!
+2014-03-24 17:13:34 [CLIENT] [INFO] Setting user: Player312
+2014-03-24 17:13:35 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-24 17:13:35 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-24 17:13:38 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DefaultOverHaul
+2014-03-24 17:15:51 [CLIENT] [INFO] Setting user: Player562
+2014-03-24 17:15:52 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-24 17:15:52 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-24 17:15:56 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DefaultOverHaul
+2014-03-24 17:19:54 [CLIENT] [INFO] Setting user: Player625
+2014-03-24 17:19:55 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-24 17:19:55 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-24 17:19:59 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DefaultOverHaul
+2014-03-24 17:20:00 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DefaultOverHaul
+2014-03-24 17:20:06 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-24 17:20:42 [CLIENT] [INFO] Stopping!
+2014-03-24 17:24:07 [CLIENT] [INFO] Setting user: Player921
+2014-03-24 17:24:08 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-03-24 17:24:09 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-03-24 17:24:12 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DefaultOverHaul
+2014-03-24 17:24:13 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DefaultOverHaul
+2014-03-24 17:24:14 [CLIENT] [SEVERE] Realms: Server not available!
+2014-03-24 17:29:49 [CLIENT] [INFO] Stopping!
+2014-05-12 23:58:46 [CLIENT] [INFO] Setting user: Player109
+2014-05-12 23:58:48 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-05-12 23:58:49 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-05-12 23:59:00 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DefaultOverHaul
+2014-05-12 23:59:03 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DefaultOverHaul
+2014-05-12 23:59:05 [CLIENT] [SEVERE] Realms: Server not available!
+2014-05-13 00:01:40 [CLIENT] [INFO] Stopping!
+2014-05-13 00:40:21 [CLIENT] [INFO] Setting user: Player15
+2014-05-13 00:40:23 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-05-13 00:40:24 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-05-13 00:40:32 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DefaultOverHaul
+2014-05-13 00:40:35 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DefaultOverHaul
+2014-05-13 00:40:37 [CLIENT] [SEVERE] Realms: Server not available!
+2014-05-13 00:44:20 [CLIENT] [INFO] [CHAT] set, add
+2014-05-13 00:44:20 [CLIENT] [INFO] [CHAT] set, add
+2014-05-13 00:44:21 [CLIENT] [INFO] [CHAT] set, add
+2014-05-13 00:44:22 [CLIENT] [INFO] [CHAT] day, night
+2014-05-13 00:44:23 [CLIENT] [INFO] [CHAT] Set the time to 0
+2014-05-13 00:50:01 [CLIENT] [INFO] Stopping!
+2014-05-13 00:50:18 [CLIENT] [INFO] Setting user: Player796
+2014-05-13 00:50:20 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-05-13 00:50:21 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-05-13 00:50:29 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DefaultOverHaul
+2014-05-13 00:50:31 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:DefaultOverHaul
+2014-05-13 00:50:33 [CLIENT] [SEVERE] Realms: Server not available!
+2014-05-13 00:51:17 [CLIENT] [INFO] [CHAT] /scoreboard, /spreadplayers, /seed, /spawnpoint, /say
+2014-05-13 00:51:18 [CLIENT] [INFO] [CHAT] /scoreboard, /spreadplayers, /seed, /spawnpoint, /say
+2014-05-13 00:51:19 [CLIENT] [INFO] [CHAT] /scoreboard, /spreadplayers, /seed, /spawnpoint, /say
+2014-05-13 00:54:54 [CLIENT] [INFO] Stopping!
